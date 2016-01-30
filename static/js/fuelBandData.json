@@ -1,0 +1,2350 @@
+{
+  "daily": [
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1450915200000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451001600000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451088000000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451174400000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451260800000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451347200000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451433600000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0,
+          "progress": 0.0,
+          "targetValue": 2200
+        },
+        "distance": 0.0,
+        "frequency": "DAILY",
+        "lastKnownDailyGoal": 2200,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451520000000,
+        "steps": 0,
+        "tags": {},
+        "totalFuel": 0
+      }
+    }
+  ],
+  "monthly": [
+    {
+      "activityIds": [
+        {
+          "activityId": "63456f7b-10f9-4bbf-a781-1100844d014a"
+        },
+        {
+          "activityId": "ce4fcc9a-5ad2-4bca-bb28-fc2b1fc80f67"
+        },
+        {
+          "activityId": "103a9c64-f271-4f54-a374-74045264eb71"
+        },
+        {
+          "activityId": "54693ef7-46f7-4bf4-b908-ab657fc7077d"
+        },
+        {
+          "activityId": "c6e23050-6195-489d-8bae-b02471752cf8"
+        },
+        {
+          "activityId": "fcf5af97-bd5c-4d90-ac1d-c7c7895c478e"
+        },
+        {
+          "activityId": "2ee207f3-736f-447a-a576-c26040ba1ff4"
+        },
+        {
+          "activityId": "7b4dd505-0527-4223-a022-d333608c1a65"
+        },
+        {
+          "activityId": "87b4098e-c2f9-4193-8272-374653c128e3"
+        },
+        {
+          "activityId": "4286046c-7872-489a-83de-fad55f4b49ce"
+        },
+        {
+          "activityId": "b3d69e20-04e0-4602-910e-e727039a7881"
+        },
+        {
+          "activityId": "72c83549-b368-487d-9901-bd9ed8431b17"
+        },
+        {
+          "activityId": "faad35a3-07af-451f-a154-45e057e47513"
+        },
+        {
+          "activityId": "00136dbd-3e81-4c0b-aa73-47e15c1c49ad"
+        },
+        {
+          "activityId": "0fba34cf-a3d1-4583-9d3c-b9c97d9e0857"
+        },
+        {
+          "activityId": "ccdbd499-b5ca-41ef-952c-a3c464e22b4e"
+        },
+        {
+          "activityId": "e5d3a267-cd58-40e0-b5ff-f7506d0fed19"
+        },
+        {
+          "activityId": "d0984b51-4f27-4475-a666-73ebcc3298f2"
+        },
+        {
+          "activityId": "4b4db6a8-9e2d-4b15-b6f5-2e455e088159"
+        },
+        {
+          "activityId": "bdec9403-f02f-42db-92e9-c59adc5528a9"
+        },
+        {
+          "activityId": "9a78c404-80ce-4c40-ae8f-337adc731abb"
+        }
+      ],
+      "history": [
+        {
+          "activityType": "ALL_DAY",
+          "calories": 775,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2903.0,
+            "targetValue": 2200.0
+          },
+          "distance": 7.085812600000001,
+          "frequency": "DAILY",
+          "fuel": 2903,
+          "stars": 6,
+          "startDate": 1448928000000,
+          "steps": 8999
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 722,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2704.0,
+            "targetValue": 2200.0
+          },
+          "distance": 7.1117968000000005,
+          "frequency": "DAILY",
+          "fuel": 2704,
+          "stars": 6,
+          "startDate": 1449014400000,
+          "steps": 9032
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 696,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2606.0,
+            "targetValue": 2200.0
+          },
+          "distance": 6.4929004,
+          "frequency": "DAILY",
+          "fuel": 2606,
+          "stars": 6,
+          "startDate": 1449100800000,
+          "steps": 8246
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 626,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2345.0,
+            "targetValue": 2200.0
+          },
+          "distance": 4.8472344000000005,
+          "frequency": "DAILY",
+          "fuel": 2345,
+          "stars": 3,
+          "startDate": 1449187200000,
+          "steps": 6156
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 537,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 2012.0,
+            "targetValue": 2200.0
+          },
+          "distance": 3.7094414,
+          "frequency": "DAILY",
+          "fuel": 2012,
+          "stars": 0,
+          "startDate": 1449273600000,
+          "steps": 4711
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 945,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 3538.0,
+            "targetValue": 2200.0
+          },
+          "distance": 6.7818762,
+          "frequency": "DAILY",
+          "fuel": 3538,
+          "stars": 4,
+          "startDate": 1449360000000,
+          "steps": 8613
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 635,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2378.0,
+            "targetValue": 2200.0
+          },
+          "distance": 5.4125876,
+          "frequency": "DAILY",
+          "fuel": 2378,
+          "stars": 2,
+          "startDate": 1449446400000,
+          "steps": 6874
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 473,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 1770.0,
+            "targetValue": 2200.0
+          },
+          "distance": 4.0968422,
+          "frequency": "DAILY",
+          "fuel": 1770,
+          "stars": 3,
+          "startDate": 1449532800000,
+          "steps": 5203
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 715,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2681.0,
+            "targetValue": 2200.0
+          },
+          "distance": 7.259828,
+          "frequency": "DAILY",
+          "fuel": 2681,
+          "stars": 6,
+          "startDate": 1449619200000,
+          "steps": 9220
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 1020,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 3817.0,
+            "targetValue": 2200.0
+          },
+          "distance": 11.444859000000001,
+          "frequency": "DAILY",
+          "fuel": 3817,
+          "stars": 8,
+          "startDate": 1449705600000,
+          "steps": 14535
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 663,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2482.0,
+            "targetValue": 2200.0
+          },
+          "distance": 4.7188882,
+          "frequency": "DAILY",
+          "fuel": 2482,
+          "stars": 3,
+          "startDate": 1449792000000,
+          "steps": 5993
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 645,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2416.0,
+            "targetValue": 2200.0
+          },
+          "distance": 3.9614094,
+          "frequency": "DAILY",
+          "fuel": 2416,
+          "stars": 1,
+          "startDate": 1449878400000,
+          "steps": 5031
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 555,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 2078.0,
+            "targetValue": 2200.0
+          },
+          "distance": 2.708656,
+          "frequency": "DAILY",
+          "fuel": 2078,
+          "stars": 1,
+          "startDate": 1449964800000,
+          "steps": 3440
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 489,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 1832.0,
+            "targetValue": 2200.0
+          },
+          "distance": 2.7496007999999996,
+          "frequency": "DAILY",
+          "fuel": 1832,
+          "stars": 1,
+          "startDate": 1450051200000,
+          "steps": 3492
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 561,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 2102.0,
+            "targetValue": 2200.0
+          },
+          "distance": 4.524400399999999,
+          "frequency": "DAILY",
+          "fuel": 2102,
+          "stars": 2,
+          "startDate": 1450137600000,
+          "steps": 5746
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 629,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 2356.0,
+            "targetValue": 2200.0
+          },
+          "distance": 5.1936903999999995,
+          "frequency": "DAILY",
+          "fuel": 2356,
+          "stars": 4,
+          "startDate": 1450224000000,
+          "steps": 6596
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 554,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 2074.0,
+            "targetValue": 2200.0
+          },
+          "distance": 4.2818812,
+          "frequency": "DAILY",
+          "fuel": 2074,
+          "stars": 3,
+          "startDate": 1450310400000,
+          "steps": 5438
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 984,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 3684.0,
+            "targetValue": 2200.0
+          },
+          "distance": 7.783448999999999,
+          "frequency": "DAILY",
+          "fuel": 3684,
+          "stars": 5,
+          "startDate": 1450396800000,
+          "steps": 9885
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 903,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1,
+            "dailyGoalsTotal": 1,
+            "progress": 3382.0,
+            "targetValue": 2200.0
+          },
+          "distance": 6.5952624,
+          "frequency": "DAILY",
+          "fuel": 3382,
+          "stars": 2,
+          "startDate": 1450483200000,
+          "steps": 8376
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 448,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 1677.0,
+            "targetValue": 2200.0
+          },
+          "distance": 2.7070812,
+          "frequency": "DAILY",
+          "fuel": 1677,
+          "stars": 1,
+          "startDate": 1450569600000,
+          "steps": 3438
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 187,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 701.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.6480302,
+          "frequency": "DAILY",
+          "fuel": 701,
+          "stars": 0,
+          "startDate": 1450656000000,
+          "steps": 823
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1450742400000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1450828800000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1450915200000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451001600000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451088000000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451174400000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451260800000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451347200000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451433600000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451520000000,
+          "steps": 0
+        }
+      ],
+      "summary": {
+        "activeTime": 10521,
+        "activeTimePeriods": [
+          {
+            "00am-02am": 1988,
+            "02am-04am": 150,
+            "02pm-04pm": 6938,
+            "04am-06am": 47,
+            "04pm-06pm": 6238,
+            "06am-08am": 142,
+            "06pm-08pm": 5320,
+            "08am-10am": 3100,
+            "08pm-10pm": 6385,
+            "10am-12pm": 8176,
+            "10pm-00am": 4961,
+            "12pm-02pm": 8093
+          }
+        ],
+        "activityType": "ALL_DAY",
+        "avgFuelPerDay": 2454,
+        "avgStarsPerDay": 3,
+        "calories": 13762,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 13,
+          "dailyGoalsTotal": 21
+        },
+        "distance": 110.11553,
+        "frequency": "MONTH",
+        "lastKnownDailyGoal": 2200.0,
+        "leastActiveTimePeriod": "04am-08am",
+        "mostActiveTimePeriod": "12pm-04pm",
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "stars": 67,
+        "startDate": 1448928000000,
+        "steps": 139847,
+        "totalFuel": 51538
+      }
+    }
+  ],
+  "serverTime": 1451586303621,
+  "weekly": [
+    {
+      "activityIds": [
+        {
+          "activityId": "9a78c404-80ce-4c40-ae8f-337adc731abb"
+        }
+      ],
+      "history": [
+        {
+          "activityType": "ALL_DAY",
+          "calories": 187,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 1,
+            "progress": 701.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.6480302,
+          "frequency": "DAILY",
+          "fuel": 701,
+          "stars": 0,
+          "startDate": 1450656000000,
+          "steps": 823
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1450742400000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1450828800000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1450915200000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451001600000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451088000000,
+          "steps": 0
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0,
+            "progress": 0.0,
+            "targetValue": 2200.0
+          },
+          "distance": 0.0,
+          "frequency": "DAILY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451174400000,
+          "steps": 0
+        }
+      ],
+      "summary": {
+        "activeTime": 145,
+        "activeTimePeriods": [
+          {
+            "00am-02am": 4,
+            "02am-04am": 1,
+            "02pm-04pm": 2,
+            "04am-06am": 1,
+            "04pm-06pm": 0,
+            "06am-08am": 11,
+            "06pm-08pm": 0,
+            "08am-10am": 254,
+            "08pm-10pm": 0,
+            "10am-12pm": 392,
+            "10pm-00am": 0,
+            "12pm-02pm": 36
+          }
+        ],
+        "activityType": "ALL_DAY",
+        "avgFuelPerDay": 701,
+        "calories": 187,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 1
+        },
+        "distance": 0.64803,
+        "frequency": "WEEKLY",
+        "lastKnownDailyGoal": 2200.0,
+        "leastActiveTimePeriod": "08pm-00am",
+        "mostActiveTimePeriod": "08am-12pm",
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1450656000000,
+        "steps": 823,
+        "totalFuel": 701
+      }
+    },
+    {
+      "activityIds": [],
+      "history": [
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451260800000,
+          "steps": 0
+        },
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451347200000,
+          "steps": 0
+        },
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451433600000,
+          "steps": 0
+        },
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451520000000,
+          "steps": 0
+        },
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451606400000,
+          "steps": 0
+        },
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451692800000,
+          "steps": 0
+        },
+        {
+          "calories": 0,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0,
+            "dailyGoalsTotal": 0
+          },
+          "distance": 0.0,
+          "frequency": "WEEKLY",
+          "fuel": 0,
+          "stars": 0,
+          "startDate": 1451779200000,
+          "steps": 0
+        }
+      ],
+      "summary": {
+        "activeTime": 0,
+        "avgFuelPerDay": 0,
+        "calories": 0,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0,
+          "dailyGoalsTotal": 0
+        },
+        "distance": 0.0,
+        "frequency": "WEEKLY",
+        "lastKnownDailyGoal": 2200.0,
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "startDate": 1451260800000,
+        "steps": 0,
+        "totalFuel": 0
+      }
+    }
+  ],
+  "yearly": [
+    {
+      "activityIds": [
+        {
+          "activityId": "44a46baf-5e7d-4ae8-99f0-ea0c0d0ee00d"
+        },
+        {
+          "activityId": "0727a5f8-8a33-4bb7-9c41-c6d5b24cb2c3"
+        },
+        {
+          "activityId": "2e1f0a98-1bdf-4085-939c-dccbb28fdc8f"
+        },
+        {
+          "activityId": "be732270-e840-4978-be72-3bf2ec255e66"
+        },
+        {
+          "activityId": "4f06a79f-a4d5-4539-84d4-16266adf3f84"
+        },
+        {
+          "activityId": "ef3c6865-979a-4b9c-929b-181193245476"
+        },
+        {
+          "activityId": "193389d4-bc09-44b1-a2b1-94e7d0371c23"
+        },
+        {
+          "activityId": "e35f13c5-32ea-4c72-83b2-7d4834b8c59b"
+        },
+        {
+          "activityId": "5d961fbb-4e59-4097-84f2-8b8542b8e401"
+        },
+        {
+          "activityId": "a340a723-3ab5-4d0b-9355-087a8ce0c165"
+        },
+        {
+          "activityId": "e815b940-a823-46d8-807d-c0e8cfbab159"
+        },
+        {
+          "activityId": "2444152b-cafd-411d-a81f-4459195b77bf"
+        },
+        {
+          "activityId": "39ebc942-42cf-41e7-9684-4c5ee16076df"
+        },
+        {
+          "activityId": "50257198-a383-402d-b5fa-0eb70983a438"
+        },
+        {
+          "activityId": "eb5a83c6-0966-4890-a45b-85e733479fb3"
+        },
+        {
+          "activityId": "ee90eb68-5ebb-4be1-8801-c3fa6fb0c4ac"
+        },
+        {
+          "activityId": "54b7f332-5a3b-44d2-b080-88ff64b71b48"
+        },
+        {
+          "activityId": "1e7b216b-1b45-4cb6-bf41-a98480a32642"
+        },
+        {
+          "activityId": "827a61f7-708f-4611-b30f-95044ee670f9"
+        },
+        {
+          "activityId": "42f30b8f-3624-4fd6-8ca4-405ad9ada297"
+        },
+        {
+          "activityId": "7ceb2e6e-4ffd-4d24-979d-1eff6d0b3249"
+        },
+        {
+          "activityId": "1881799c-44b3-42ff-81e9-479df010f5e9"
+        },
+        {
+          "activityId": "5122e5a4-5547-4d74-9c2a-b21e4d2e4845"
+        },
+        {
+          "activityId": "aac01a35-406c-47ac-a574-67b8e7ffe120"
+        },
+        {
+          "activityId": "bf108076-9781-4fcf-badc-ca5f74bf2c08"
+        },
+        {
+          "activityId": "f2667c51-9161-4ab2-bf13-949d17b39f3e"
+        },
+        {
+          "activityId": "5dbac3e1-6aa1-409d-a496-efd0c0dbab73"
+        },
+        {
+          "activityId": "a51dca0c-f4ba-4c08-aa57-92f7a960ac99"
+        },
+        {
+          "activityId": "0e3162f2-57ca-489e-8983-ec2a16da8aec"
+        },
+        {
+          "activityId": "0f6ec7ef-dff5-4a96-9448-72742ac1499e"
+        },
+        {
+          "activityId": "c7cd5311-0dce-45b7-84e1-fe57c5868ae1"
+        },
+        {
+          "activityId": "16de2a51-4b31-410d-9af9-b8eeef028721"
+        },
+        {
+          "activityId": "95838854-4c71-44ed-a776-4792d1d384ae"
+        },
+        {
+          "activityId": "51cb852b-8a27-4c57-953f-2ded36168575"
+        },
+        {
+          "activityId": "6cd98075-5358-44dd-a367-76d9b6398c1a"
+        },
+        {
+          "activityId": "e9ee02f4-11b5-4587-b074-b4a2650282cf"
+        },
+        {
+          "activityId": "1a326a2f-6ae7-4460-b5b8-2cf20b103bad"
+        },
+        {
+          "activityId": "a865ce76-15e6-4876-8b95-f6c64c7bd3df"
+        },
+        {
+          "activityId": "afe9bb6a-3976-4498-b7ee-0b49fd81afdc"
+        },
+        {
+          "activityId": "c4856a2a-b343-473e-9677-d01cd7736382"
+        },
+        {
+          "activityId": "48af6de6-70e7-4e54-92b8-f63980b58d41"
+        },
+        {
+          "activityId": "e794daa7-a01c-4cb2-807e-702485177d67"
+        },
+        {
+          "activityId": "2d9a7abf-d6de-4feb-8683-fc0b2114b44a"
+        },
+        {
+          "activityId": "89ee90d7-c0fb-4007-a6e7-3ccd34c76ae5"
+        },
+        {
+          "activityId": "38bc62e1-ab04-4d68-be83-b9e0700eed72"
+        },
+        {
+          "activityId": "25d6b6f4-c109-4551-9675-9d25c54ec50e"
+        },
+        {
+          "activityId": "6f1af36a-4b92-47f2-adb3-12b638afbd58"
+        },
+        {
+          "activityId": "630f13af-d96b-4e4b-8c1d-0911e3bf1f2c"
+        },
+        {
+          "activityId": "14430dc4-f632-4468-90a5-0cb237858250"
+        },
+        {
+          "activityId": "5028a99d-3a1b-4c8d-b4fc-d9e68c1b4873"
+        },
+        {
+          "activityId": "b3fdee50-a2aa-440c-9fdf-086bf1522789"
+        },
+        {
+          "activityId": "f0765cb7-2e72-43ff-afa2-582b57e22efc"
+        },
+        {
+          "activityId": "c570e061-c6d2-4362-b669-135dea4ec7e5"
+        },
+        {
+          "activityId": "c69abf07-e5c3-4543-8e0a-3f03e0ef9b8f"
+        },
+        {
+          "activityId": "eb129e47-1858-4932-b2f7-f76f3b5abe81"
+        },
+        {
+          "activityId": "b37c0814-d772-4127-9e7d-a5cc4965e3f0"
+        },
+        {
+          "activityId": "0bde6184-db2e-4493-951a-85da00bad98f"
+        },
+        {
+          "activityId": "7e166652-e0a1-4948-b1d0-8f35cba8482e"
+        },
+        {
+          "activityId": "a1e3002f-5af6-4b8d-99ba-de41a25f979c"
+        },
+        {
+          "activityId": "6737be77-426b-443b-8a39-73ea58e5130c"
+        },
+        {
+          "activityId": "27e20453-83a3-4f65-96e6-265bb9d1fe81"
+        },
+        {
+          "activityId": "ea56187c-4f80-4dd3-b836-de4608041b7c"
+        },
+        {
+          "activityId": "1f31474f-a8bc-41ec-bf9f-9c704901790a"
+        },
+        {
+          "activityId": "eb588b7e-4883-4f86-9612-c67462ac2c27"
+        },
+        {
+          "activityId": "8a967b6e-6d1e-4101-b6bc-a75529d6ac10"
+        },
+        {
+          "activityId": "6a02e819-5964-4984-ac22-96fcce0cdc89"
+        },
+        {
+          "activityId": "8bac065d-f484-4e74-88bf-ba0ba98060fd"
+        },
+        {
+          "activityId": "afbf446c-d56d-4a7b-b3f6-d861ce500cf5"
+        },
+        {
+          "activityId": "16e5cf56-a760-4ebb-a995-8397d2dc628d"
+        },
+        {
+          "activityId": "d212920e-1fce-4845-ac6d-8f23647b5feb"
+        },
+        {
+          "activityId": "753873f0-2bb1-4bfc-89d9-227b20207b36"
+        },
+        {
+          "activityId": "cf322ceb-4325-44d6-8b68-6c0bb853dba0"
+        },
+        {
+          "activityId": "26897de4-10db-4c94-83d6-f1df8f9afe6a"
+        },
+        {
+          "activityId": "5b0c8ac5-7f85-42db-8376-5d4c4c9756ee"
+        },
+        {
+          "activityId": "ecc9add4-b608-44d8-9668-38d12f73380a"
+        },
+        {
+          "activityId": "66e41d4d-49b7-479b-8dcc-88f6fd83d150"
+        },
+        {
+          "activityId": "dd507988-4c02-4433-b622-ca7c7107f128"
+        },
+        {
+          "activityId": "10567abd-0a0e-4009-9e9e-d216076f80e5"
+        },
+        {
+          "activityId": "50b4f39a-e479-443c-a3d5-cd709223d013"
+        },
+        {
+          "activityId": "cafd50ea-fce4-450f-a816-443b7adc190c"
+        },
+        {
+          "activityId": "3340bf86-b22a-40c5-80f7-2acbc4fe8e80"
+        },
+        {
+          "activityId": "7909de2d-068d-4b5c-881f-36f8cedc105b"
+        },
+        {
+          "activityId": "0b1c0cb8-5930-4a04-9db7-e860d088f026"
+        },
+        {
+          "activityId": "576dc44c-4983-4f7f-a045-8fefc68d0967"
+        },
+        {
+          "activityId": "01a8e185-ccfe-4e5e-b9b4-866637ee2b80"
+        },
+        {
+          "activityId": "adade27b-82d3-4ad4-8873-e4e7beec9e18"
+        },
+        {
+          "activityId": "04e7cca7-08fb-4cdf-8911-62f4ec94fb2f"
+        },
+        {
+          "activityId": "d8b7fce3-9451-487f-a287-169b4ff1673e"
+        },
+        {
+          "activityId": "933870ca-9fd2-47d9-835e-8057c0873a35"
+        },
+        {
+          "activityId": "22fb8d79-eae6-4805-b4cd-4161955082ad"
+        },
+        {
+          "activityId": "c0d78a2a-f9de-4087-8b8c-14f3e192e1b1"
+        },
+        {
+          "activityId": "895a72cf-bbf4-41b2-a520-700e711519fc"
+        },
+        {
+          "activityId": "d57029b2-ec2b-4545-a7e5-c100e09340a0"
+        },
+        {
+          "activityId": "170043dd-00cb-4503-8ecf-edc1915619ec"
+        },
+        {
+          "activityId": "f7183d11-0e1b-40d5-8dd8-f079618afdbc"
+        },
+        {
+          "activityId": "0ffb7621-93da-4273-b7a6-3d582238bf59"
+        },
+        {
+          "activityId": "7b05a5c9-fb29-4872-96a7-a6e37086bd7a"
+        },
+        {
+          "activityId": "ffc5ad93-b759-4aae-a840-d1ceb34f969f"
+        },
+        {
+          "activityId": "1b91da31-09fb-4cfe-a6f3-27771bd47448"
+        },
+        {
+          "activityId": "932129f0-cba7-4499-8e25-b8ba3415c16f"
+        },
+        {
+          "activityId": "63513af0-facc-42fa-bc21-acc25e8cad36"
+        },
+        {
+          "activityId": "dde1c62c-d60a-40ba-a248-778282398355"
+        },
+        {
+          "activityId": "2718fe27-a35b-471f-92aa-1a8db45af952"
+        },
+        {
+          "activityId": "2a59e2b6-1f32-48c8-baec-845a7fddfeb1"
+        },
+        {
+          "activityId": "97389828-32a4-434b-b1c2-7de80b72ba73"
+        },
+        {
+          "activityId": "d4b3c523-3b61-45d1-8acf-c36affbf07bb"
+        },
+        {
+          "activityId": "b85fb98e-a9c5-4a40-ae22-a930f3e1602b"
+        },
+        {
+          "activityId": "360350a1-9b92-4f0f-855a-c9a40dd83340"
+        },
+        {
+          "activityId": "bc643ab7-ffbf-4cb9-b6c6-5f7939385d28"
+        },
+        {
+          "activityId": "466c9b5c-0c1c-4c6c-bd1f-45b35194b2e6"
+        },
+        {
+          "activityId": "e93bbb5a-9f93-4246-8604-59ab99c7a4b8"
+        },
+        {
+          "activityId": "9d714884-e632-41fe-9022-cb903b94c284"
+        },
+        {
+          "activityId": "cc31c1db-b142-434d-a67f-a480dd8aaf83"
+        },
+        {
+          "activityId": "a1d2f421-f9a5-48e9-8573-f7d54d2386b7"
+        },
+        {
+          "activityId": "2efde91a-07ed-440c-b9ed-eb26d9aefe2a"
+        },
+        {
+          "activityId": "a011a41b-2b25-4fbb-a19b-f8c450450028"
+        },
+        {
+          "activityId": "c3573ad0-96a0-4cbe-abbd-93c90cf431ff"
+        },
+        {
+          "activityId": "bb69ca04-f37d-4b77-b8c2-9ba2c8bce5ac"
+        },
+        {
+          "activityId": "107dc840-1c25-4b02-b3eb-512a3bc015ff"
+        },
+        {
+          "activityId": "26a659ef-136e-47c0-a3e0-3ba6c95c8790"
+        },
+        {
+          "activityId": "1062a232-887f-4a55-a21f-cc788c8d7778"
+        },
+        {
+          "activityId": "8de0e894-55e0-4935-bd9c-71ca21967161"
+        },
+        {
+          "activityId": "99d7786c-5e6c-4e91-b3d5-c20cdd091c37"
+        },
+        {
+          "activityId": "fdbb2fa5-e09f-41f9-804b-cb32103c4621"
+        },
+        {
+          "activityId": "7bd75197-3a87-4f6c-b050-d4c3e1b9b333"
+        },
+        {
+          "activityId": "7115ad43-273a-4a01-84d7-60e9d0ac8f10"
+        },
+        {
+          "activityId": "207d5a6d-a161-42cb-9144-ecca726e602c"
+        },
+        {
+          "activityId": "22fac21e-d4b3-457a-848d-f0fdc8f54aff"
+        },
+        {
+          "activityId": "210ef75f-9662-4d94-a947-46ec7ba92fea"
+        },
+        {
+          "activityId": "beadaef4-d7f5-4807-bec0-c753a352bd76"
+        },
+        {
+          "activityId": "ec848fa3-5165-45f5-b362-398105d6a724"
+        },
+        {
+          "activityId": "2dbdae57-61d5-4351-92a8-1819c6fa441c"
+        },
+        {
+          "activityId": "b9c5c19a-92a4-4033-b0ff-1629f6bb989d"
+        },
+        {
+          "activityId": "123409ac-cad2-420e-98c0-1b5a9e195be8"
+        },
+        {
+          "activityId": "751d49d1-db94-4eda-910f-dfdba1eef011"
+        },
+        {
+          "activityId": "a7a7dbec-7baa-463d-bfc0-26ce624066b7"
+        },
+        {
+          "activityId": "51fd9221-f192-4856-966b-0f5f75ecdb2c"
+        },
+        {
+          "activityId": "debeaf0c-d7b8-40e6-9e24-7c4abff264c9"
+        },
+        {
+          "activityId": "d0053284-883b-4823-91b9-b9f3818eaecc"
+        },
+        {
+          "activityId": "0e1dd171-e822-4be1-ba7e-d24666b392db"
+        },
+        {
+          "activityId": "3b5ca55f-d62d-4340-abd2-4d029e543619"
+        },
+        {
+          "activityId": "3a4453eb-0eb3-4163-a513-08fb0135ce86"
+        },
+        {
+          "activityId": "7dd94e81-3546-4fd4-9462-54fe1cc78229"
+        },
+        {
+          "activityId": "ac80a93b-1678-4f7c-b8d1-a5c29b7e92dc"
+        },
+        {
+          "activityId": "834f3812-4618-4a2c-a069-109b6cd1df4d"
+        },
+        {
+          "activityId": "e5212afc-587e-4c8b-b600-fce5dad75110"
+        },
+        {
+          "activityId": "33590bd4-9045-4f42-994f-09a60492e44d"
+        },
+        {
+          "activityId": "af088698-277f-4dff-873a-efbf811539f1"
+        },
+        {
+          "activityId": "0bc39bf3-cb99-4a8c-aeac-220646eeb5a1"
+        },
+        {
+          "activityId": "174b4131-f22e-41fd-b55f-c97ce8e13463"
+        },
+        {
+          "activityId": "c3fa3c7c-8b1d-4cf5-9c6f-bac33d278d59"
+        },
+        {
+          "activityId": "34a9ac12-a679-43f8-9f94-9e4c0393e2cb"
+        },
+        {
+          "activityId": "a1e7eebc-9101-4bf8-8155-196d8eeb36e5"
+        },
+        {
+          "activityId": "498c4343-8e3a-4e58-abe3-9d9664158078"
+        },
+        {
+          "activityId": "2374c44b-cbfd-40ae-8fb8-97fcc9c933ff"
+        },
+        {
+          "activityId": "4c6f453f-359e-40b1-9e7b-a794c5400287"
+        },
+        {
+          "activityId": "b8976aca-f9c3-4343-afa2-e1b2274f220b"
+        },
+        {
+          "activityId": "ab89292f-7f9e-45d0-95d6-ce7c78322735"
+        },
+        {
+          "activityId": "f9839ad1-5310-40ec-8e6a-9e32b3b22b93"
+        },
+        {
+          "activityId": "f7e0fa40-ea34-48b8-9cdd-662b9004bce3"
+        },
+        {
+          "activityId": "ad93fc71-9083-4faf-9129-4339249b0c68"
+        },
+        {
+          "activityId": "d37e60f1-250a-49bf-a3fb-9940c87df367"
+        },
+        {
+          "activityId": "e13bb2f0-71f0-4039-a6d9-0dac75afe841"
+        },
+        {
+          "activityId": "6f971a73-3398-4a7d-be94-23570e16966d"
+        },
+        {
+          "activityId": "83ba0757-aab1-4726-8552-25e20ca86a8a"
+        },
+        {
+          "activityId": "b575a9a8-3e1e-4a67-ab60-aaaece7f0042"
+        },
+        {
+          "activityId": "b5bd985d-7730-47bb-a12f-e0ff4167fb2e"
+        },
+        {
+          "activityId": "815367aa-a5f3-4af9-a559-7c23390fa594"
+        },
+        {
+          "activityId": "ccdcc92a-0cda-47f3-8472-f678c8a76836"
+        },
+        {
+          "activityId": "c8f8ca70-2ef9-4af1-95c3-a9580c2b1b4d"
+        },
+        {
+          "activityId": "16705b25-71e2-4973-8237-36e31f12342b"
+        },
+        {
+          "activityId": "a14e9dc5-889e-4ac5-86ae-23cc41dd20dc"
+        },
+        {
+          "activityId": "95d4a903-6d17-43dd-8a10-24b7cb710c89"
+        },
+        {
+          "activityId": "43edfb01-b209-402b-9c4b-cd1829dff1f3"
+        },
+        {
+          "activityId": "271d9d92-ee22-4c13-a96b-517d0a038fc4"
+        },
+        {
+          "activityId": "b0955972-e60d-4ce8-aa99-0e6d2c5ee216"
+        },
+        {
+          "activityId": "f2969c98-9512-41a0-b538-057d1197b67a"
+        },
+        {
+          "activityId": "55d073d2-adbd-4936-a294-1efd0cdaac48"
+        },
+        {
+          "activityId": "c634f96f-fabb-41e5-af22-67a9d6d319fc"
+        },
+        {
+          "activityId": "4fdf7e57-7a95-4fb4-ab0c-fa4e93b10377"
+        },
+        {
+          "activityId": "b06b0fb7-9840-4aa5-943e-847e2b044efa"
+        },
+        {
+          "activityId": "0d9079a2-1dfa-47f3-b3a0-959d5984e00c"
+        },
+        {
+          "activityId": "de0ec950-4374-4805-b46d-77a13b7ae4e1"
+        },
+        {
+          "activityId": "bddd3487-f31d-465b-984b-083c0a8e2c08"
+        },
+        {
+          "activityId": "f409fcf1-0941-4000-8161-52fdd1b6ea03"
+        },
+        {
+          "activityId": "07332d7a-3fd0-4f32-947a-24f3def6aa3f"
+        },
+        {
+          "activityId": "e679def3-a6c6-418e-bd7b-a850b8d69cec"
+        },
+        {
+          "activityId": "c7686eb5-97bd-41f9-844f-b0098a277165"
+        },
+        {
+          "activityId": "e2274b48-c75c-4f13-b7d5-24cf44fe9577"
+        },
+        {
+          "activityId": "e19b45c2-1f37-4824-b85b-744aa7e317d7"
+        },
+        {
+          "activityId": "1fc718c7-71b2-4116-a9a8-aaf9803aeb49"
+        },
+        {
+          "activityId": "a80df73c-6550-423d-a5bc-88ef86d32a96"
+        },
+        {
+          "activityId": "a03540c3-1a12-41ad-882e-193ed2ba0d38"
+        },
+        {
+          "activityId": "735df369-ee7a-4e6f-94dd-23efc1fdb406"
+        },
+        {
+          "activityId": "566e9cd9-a1b7-4c0f-8502-badbc4985945"
+        },
+        {
+          "activityId": "b5c9d537-9ac3-469f-97b5-ad87b8e329b5"
+        },
+        {
+          "activityId": "df45cb59-1296-4497-9190-64f7df110c98"
+        },
+        {
+          "activityId": "0632043c-ec74-46e4-ac54-33632c86584d"
+        },
+        {
+          "activityId": "c71ef011-6089-4810-8acd-6dd0b3fb6ea7"
+        },
+        {
+          "activityId": "34a2847e-2025-4baf-ae75-8fc5c309f4bc"
+        },
+        {
+          "activityId": "072b5b87-0d28-4e63-931a-875b02e368b6"
+        },
+        {
+          "activityId": "cdb74963-01df-4d47-8d0f-b184e6a604f3"
+        },
+        {
+          "activityId": "b786a215-7115-4029-b4bc-f5a054472146"
+        },
+        {
+          "activityId": "816d822b-186d-4b39-8ba8-994da3404709"
+        },
+        {
+          "activityId": "94bd40f5-934a-46d4-b504-3faa0486c8eb"
+        },
+        {
+          "activityId": "19c99757-bd4c-4f3a-8d61-872bb8323dc2"
+        },
+        {
+          "activityId": "0b309b9e-d718-4266-8f4a-2f33f95c2abd"
+        },
+        {
+          "activityId": "3392a048-aaca-4f5d-a7b5-e83c29b98140"
+        },
+        {
+          "activityId": "990627eb-36e7-4dd3-bb48-605ebb0a18c3"
+        },
+        {
+          "activityId": "13f4f0d1-ee47-4f71-afa5-6f8e0ad4d708"
+        },
+        {
+          "activityId": "6361e6dc-1b1d-4f18-a0e9-751a6abe186e"
+        },
+        {
+          "activityId": "26b1aade-2a30-43af-a86e-932f7af7a24c"
+        },
+        {
+          "activityId": "36ec9cfa-50f1-4b23-8911-7c959153a412"
+        },
+        {
+          "activityId": "256a8cc4-f078-43c0-957a-cea2538b5cf4"
+        },
+        {
+          "activityId": "d9d0dff5-9a85-4808-bda0-a14e41d4e6e2"
+        },
+        {
+          "activityId": "86282323-aee7-40da-8144-65b605d1fc22"
+        },
+        {
+          "activityId": "ce80bc67-5af5-400f-b304-60a96688a8a9"
+        },
+        {
+          "activityId": "76ca0130-7478-4a19-8032-53da698bcb0f"
+        },
+        {
+          "activityId": "294ec553-c6fe-4872-a29f-c4606134277f"
+        },
+        {
+          "activityId": "3e8cc736-81e6-476a-b60e-c802e121d16b"
+        },
+        {
+          "activityId": "30e62196-1e33-4163-acbe-361fbf4b5216"
+        },
+        {
+          "activityId": "4ed586ff-60b2-434f-9873-fcc461f53e61"
+        },
+        {
+          "activityId": "ee5ddfc1-6470-4c1d-9235-3441b30b29cc"
+        },
+        {
+          "activityId": "00fbc157-602a-4ef4-9b99-e461b0a250a2"
+        },
+        {
+          "activityId": "f2c4693f-c50b-43cc-aa23-74dca655a155"
+        },
+        {
+          "activityId": "17c221b7-0d0e-40b3-8f79-6b7d0a9c3ab8"
+        },
+        {
+          "activityId": "4955cc71-f96c-4e97-a75c-07c361026914"
+        },
+        {
+          "activityId": "ed588533-58ed-484d-8c11-91cf7fa63103"
+        },
+        {
+          "activityId": "a5e71cce-a3be-4d46-a283-bd2e833e7017"
+        },
+        {
+          "activityId": "dc504c12-9227-410b-bad6-723313c3ef16"
+        },
+        {
+          "activityId": "084cb65f-8c85-4957-8859-c3e3bd11bc4c"
+        },
+        {
+          "activityId": "548986ab-4064-4bb7-9f95-d72d478750c2"
+        },
+        {
+          "activityId": "97599ac0-b276-4590-a7fa-3970e3f5a6d2"
+        },
+        {
+          "activityId": "7142249f-52b5-4fb9-b26d-66fb8d356d5f"
+        },
+        {
+          "activityId": "d686d4d9-2a10-4cc9-a597-bc9f19e3c627"
+        },
+        {
+          "activityId": "f3173e5c-f08f-48c5-b1b8-a9f125158c70"
+        },
+        {
+          "activityId": "6a992a24-54ca-409e-9f96-84adc84fef85"
+        },
+        {
+          "activityId": "05a2d280-b3db-424b-94ee-d08da4b08685"
+        },
+        {
+          "activityId": "916055e1-4d43-4f98-b296-fd70f87976cf"
+        },
+        {
+          "activityId": "85db8b3e-c4a6-4420-927f-0357811ea993"
+        },
+        {
+          "activityId": "cd102071-0f37-4e0c-9173-adb4907ef6c1"
+        },
+        {
+          "activityId": "68b93889-dd43-4ff0-aa50-cb0a167e33d6"
+        },
+        {
+          "activityId": "b764ecda-fcc6-4500-9286-a645af0ff781"
+        },
+        {
+          "activityId": "8fd2464c-e6da-44e7-83b2-c6664417a717"
+        },
+        {
+          "activityId": "7c7955f5-c549-4557-9773-1ffbab30af1c"
+        },
+        {
+          "activityId": "14934929-9201-49d0-91bc-32ee5b739706"
+        },
+        {
+          "activityId": "f98a4cc0-421b-498e-a597-d9e566c31d68"
+        },
+        {
+          "activityId": "06d22a83-96cc-4085-91cd-704005a0f9c7"
+        },
+        {
+          "activityId": "05651c83-c309-49ff-9d01-efdfd374a638"
+        },
+        {
+          "activityId": "ae80c665-678c-426f-a10d-d7557a49ce2e"
+        },
+        {
+          "activityId": "8af4bd18-0b07-43dc-b7af-69c8444bb014"
+        },
+        {
+          "activityId": "e9d142f4-d063-43d6-adac-63f5afb17d55"
+        },
+        {
+          "activityId": "f1204de0-e980-4c7c-b73a-7566b806b395"
+        },
+        {
+          "activityId": "bb517bca-5e9c-4356-b93d-6f00e2572c14"
+        },
+        {
+          "activityId": "785bffc7-9287-4795-9e8d-e652da1f88fc"
+        },
+        {
+          "activityId": "40436079-07b2-4430-84ac-4f6167dfa548"
+        },
+        {
+          "activityId": "197d125c-aaa5-4661-99d3-491d4413aa5c"
+        },
+        {
+          "activityId": "f07e9bd7-e250-41a4-8bf1-e7f9e33b6b7c"
+        },
+        {
+          "activityId": "d771938c-673b-4d73-b5ad-1ddadc7daf28"
+        },
+        {
+          "activityId": "58a67d9f-49ba-426f-bc77-b46eef383502"
+        },
+        {
+          "activityId": "60808ded-0e2d-4e2f-8f64-a315dcd383fa"
+        },
+        {
+          "activityId": "c97a8208-b58a-474e-b4e1-eea85cdf807c"
+        },
+        {
+          "activityId": "fbaf7318-8cc4-41a0-8437-ab49a43325a9"
+        },
+        {
+          "activityId": "45639ed0-a1e7-486a-9866-242fab7dc219"
+        },
+        {
+          "activityId": "cd4e04c0-b54e-45b0-a4ef-922d175f756b"
+        },
+        {
+          "activityId": "b3add55b-1e4a-476a-906f-394a0bb161c2"
+        },
+        {
+          "activityId": "1739a1bd-2fee-4932-a750-4fb6970d1a26"
+        },
+        {
+          "activityId": "f1c8974a-3bd2-4bc9-ade6-3e8d15c81825"
+        },
+        {
+          "activityId": "fd90a680-8e52-4466-bcae-7e60c3b39908"
+        },
+        {
+          "activityId": "0ba5203a-2056-47a5-a467-299274c1fa2d"
+        },
+        {
+          "activityId": "ff025716-515c-49a8-9d61-28c328ddf574"
+        },
+        {
+          "activityId": "355cf1ff-09af-40ce-965d-9ec4c49addc5"
+        },
+        {
+          "activityId": "017efa82-5479-425a-abe6-0d1a1f6823e7"
+        },
+        {
+          "activityId": "7019407d-8c4f-4782-9252-0da6a1f0b9e9"
+        },
+        {
+          "activityId": "fc8afc64-f865-4d3e-9d16-a6f5ea7d11d0"
+        },
+        {
+          "activityId": "e6de0c12-a568-4560-a789-8942bb2b56f6"
+        },
+        {
+          "activityId": "645ac44d-2b3a-411e-bb50-ee924c5a6d81"
+        },
+        {
+          "activityId": "601ef16c-fb53-4434-a50b-fd0caefa7336"
+        },
+        {
+          "activityId": "b9715885-dfa9-427d-958a-6b511a7da530"
+        },
+        {
+          "activityId": "b0b1c008-fa37-4dff-82fd-b6e559c3c1ec"
+        },
+        {
+          "activityId": "7f597c9b-89f7-4d02-9144-b895d321f7be"
+        },
+        {
+          "activityId": "8e13c398-10dd-4df4-8c48-e64f5ed76a17"
+        },
+        {
+          "activityId": "60ee369e-03d7-4c8a-990a-d50405bf919a"
+        },
+        {
+          "activityId": "9cd3f6ee-4b03-4ce4-9808-4da73aae3743"
+        },
+        {
+          "activityId": "4d9131cb-d389-4e3c-9f5a-1ba27d0fdfed"
+        },
+        {
+          "activityId": "e96e9897-7908-448f-84b6-639abf88911e"
+        },
+        {
+          "activityId": "f00f2cd3-f5b7-4610-8916-fb5cae86b501"
+        },
+        {
+          "activityId": "88c3e228-78ee-4328-a97b-2e66bbb7a01d"
+        },
+        {
+          "activityId": "b3e1237b-cb9a-4cbc-9316-93e5178bf979"
+        },
+        {
+          "activityId": "320e21db-6efd-4f7a-abc3-0e25e82e996d"
+        },
+        {
+          "activityId": "ba3b601f-be1b-469f-aaac-ae8775b9b683"
+        },
+        {
+          "activityId": "598071a0-871d-4663-a71f-38141929bef6"
+        },
+        {
+          "activityId": "3ae3f012-478a-4954-8faf-dabbe81ebfe4"
+        },
+        {
+          "activityId": "38d79aa8-fce4-4359-937a-65466c6fcf7e"
+        },
+        {
+          "activityId": "feef9366-f457-402a-b46c-fa5c40b1820a"
+        },
+        {
+          "activityId": "9f8f0311-508a-4183-985f-fd57f56ff8d8"
+        },
+        {
+          "activityId": "70c65c8c-7d9c-43c4-9483-78d297257a0c"
+        },
+        {
+          "activityId": "2f4802dc-4027-4397-bc1c-b2574b94de4a"
+        },
+        {
+          "activityId": "d8dafe99-3a77-4453-aa23-f1b8ce0154d4"
+        },
+        {
+          "activityId": "b45f4a3d-3893-4d8f-bfa4-83f8c51f578d"
+        },
+        {
+          "activityId": "1c4f3f14-2ed7-4d3f-ac1f-b14a16c5df3d"
+        },
+        {
+          "activityId": "9455ecf5-84ce-49b4-ad9e-e4f2b9006617"
+        },
+        {
+          "activityId": "8d6c4ba9-7d78-4c97-988a-206c3b250123"
+        },
+        {
+          "activityId": "aae91bd1-5649-426a-854e-d733860477de"
+        },
+        {
+          "activityId": "c7ed26f7-4687-4a3a-9add-4e1f64a6a109"
+        },
+        {
+          "activityId": "4f103282-f828-43a3-ac93-2ac6772b774e"
+        },
+        {
+          "activityId": "76fe3adc-d76c-41fb-9ee4-8fb6c1514a01"
+        },
+        {
+          "activityId": "76b5cb94-0123-44f3-91a5-6108134fef2e"
+        },
+        {
+          "activityId": "0bc416ae-6788-47a2-9e68-09cc62763ed2"
+        },
+        {
+          "activityId": "7fe63244-8fd7-449b-a7cb-e1afdecda393"
+        },
+        {
+          "activityId": "0993060d-cdde-4f1f-af98-6b25a3bc263a"
+        },
+        {
+          "activityId": "cebbe7ab-4ea0-4cc8-98db-0c59d353be75"
+        },
+        {
+          "activityId": "27de11ca-f564-4b1d-8334-270937d3b4bf"
+        },
+        {
+          "activityId": "25fe6930-2f70-45b7-9714-d93d6e081c7b"
+        },
+        {
+          "activityId": "c5112013-8546-487e-b2e1-843e87c8f480"
+        },
+        {
+          "activityId": "90ea45c2-c53a-4116-968b-5a293eb57d62"
+        },
+        {
+          "activityId": "68f8a55e-499f-403a-ab75-a6f95e552bec"
+        },
+        {
+          "activityId": "6e240c2e-ae0e-495a-91fb-40d74f54bdb2"
+        },
+        {
+          "activityId": "84ff33a6-db01-4d48-908c-46d59d10364a"
+        },
+        {
+          "activityId": "b5a1edb1-cbea-44aa-86b0-a0b7ec700cf1"
+        },
+        {
+          "activityId": "c2e3473d-b66f-4b2a-a7cc-37e79ba6543e"
+        },
+        {
+          "activityId": "8d9c58a2-7f98-458a-a2e4-91f18378ec38"
+        },
+        {
+          "activityId": "783cf5f4-a418-46f5-9485-041a589cd124"
+        },
+        {
+          "activityId": "8f7fa5f9-e0bd-477e-a42a-fabdfa98f494"
+        },
+        {
+          "activityId": "68792d29-a288-40c3-8b61-0485947ed8b0"
+        },
+        {
+          "activityId": "d4c1c952-4cc4-4748-a294-1821e17a8702"
+        },
+        {
+          "activityId": "038e5709-babb-4a63-9a9e-689a7de610b0"
+        },
+        {
+          "activityId": "35625945-3fa7-4de9-a089-d6cc986bf9de"
+        },
+        {
+          "activityId": "8e912e09-4e57-4e61-b141-03c4f11777cc"
+        },
+        {
+          "activityId": "297ceae6-7221-4e30-bb5e-a7a645316fb5"
+        },
+        {
+          "activityId": "02cb8c95-764c-474b-bdef-281733f24d98"
+        },
+        {
+          "activityId": "de21705d-313a-4218-a3b4-1e4bfe3bca82"
+        },
+        {
+          "activityId": "3731b6b5-6fc2-4290-8b83-72c4af1aad76"
+        },
+        {
+          "activityId": "63456f7b-10f9-4bbf-a781-1100844d014a"
+        },
+        {
+          "activityId": "ce4fcc9a-5ad2-4bca-bb28-fc2b1fc80f67"
+        },
+        {
+          "activityId": "103a9c64-f271-4f54-a374-74045264eb71"
+        },
+        {
+          "activityId": "54693ef7-46f7-4bf4-b908-ab657fc7077d"
+        },
+        {
+          "activityId": "c6e23050-6195-489d-8bae-b02471752cf8"
+        },
+        {
+          "activityId": "fcf5af97-bd5c-4d90-ac1d-c7c7895c478e"
+        },
+        {
+          "activityId": "2ee207f3-736f-447a-a576-c26040ba1ff4"
+        },
+        {
+          "activityId": "7b4dd505-0527-4223-a022-d333608c1a65"
+        },
+        {
+          "activityId": "87b4098e-c2f9-4193-8272-374653c128e3"
+        },
+        {
+          "activityId": "4286046c-7872-489a-83de-fad55f4b49ce"
+        },
+        {
+          "activityId": "b3d69e20-04e0-4602-910e-e727039a7881"
+        },
+        {
+          "activityId": "72c83549-b368-487d-9901-bd9ed8431b17"
+        },
+        {
+          "activityId": "faad35a3-07af-451f-a154-45e057e47513"
+        },
+        {
+          "activityId": "00136dbd-3e81-4c0b-aa73-47e15c1c49ad"
+        },
+        {
+          "activityId": "0fba34cf-a3d1-4583-9d3c-b9c97d9e0857"
+        },
+        {
+          "activityId": "ccdbd499-b5ca-41ef-952c-a3c464e22b4e"
+        },
+        {
+          "activityId": "e5d3a267-cd58-40e0-b5ff-f7506d0fed19"
+        },
+        {
+          "activityId": "d0984b51-4f27-4475-a666-73ebcc3298f2"
+        },
+        {
+          "activityId": "4b4db6a8-9e2d-4b15-b6f5-2e455e088159"
+        },
+        {
+          "activityId": "bdec9403-f02f-42db-92e9-c59adc5528a9"
+        },
+        {
+          "activityId": "9a78c404-80ce-4c40-ae8f-337adc731abb"
+        }
+      ],
+      "history": [
+        {
+          "activityType": "ALL_DAY",
+          "calories": 20043,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 20,
+            "dailyGoalsTotal": 31
+          },
+          "distance": 159.44849999999997,
+          "frequency": "MONTH",
+          "fuel": 74906,
+          "stars": 103,
+          "startDate": 1420070400000,
+          "steps": 202480
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 16600,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 15,
+            "dailyGoalsTotal": 28
+          },
+          "distance": 122.85565979999996,
+          "frequency": "MONTH",
+          "fuel": 62098,
+          "stars": 84,
+          "startDate": 1422748800000,
+          "steps": 156027
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 21795,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 23,
+            "dailyGoalsTotal": 31
+          },
+          "distance": 171.49414519999988,
+          "frequency": "MONTH",
+          "fuel": 81369,
+          "stars": 112,
+          "startDate": 1425168000000,
+          "steps": 216445
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 18535,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 12,
+            "dailyGoalsTotal": 30
+          },
+          "distance": 145.74852739999992,
+          "frequency": "MONTH",
+          "fuel": 69319,
+          "stars": 89,
+          "startDate": 1427846400000,
+          "steps": 185101
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 19372,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 12,
+            "dailyGoalsTotal": 31
+          },
+          "distance": 124.56904219999997,
+          "frequency": "MONTH",
+          "fuel": 72599,
+          "stars": 72,
+          "startDate": 1430438400000,
+          "steps": 158203
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 19114,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 20,
+            "dailyGoalsTotal": 30
+          },
+          "distance": 119.65881579999996,
+          "frequency": "MONTH",
+          "fuel": 71622,
+          "stars": 55,
+          "startDate": 1433116800000,
+          "steps": 151967
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 20358,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 23,
+            "dailyGoalsTotal": 30
+          },
+          "distance": 122.44069999999996,
+          "frequency": "MONTH",
+          "fuel": 76268,
+          "stars": 53,
+          "startDate": 1435708800000,
+          "steps": 155500
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 26202,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 25,
+            "dailyGoalsTotal": 31
+          },
+          "distance": 187.14293279999995,
+          "frequency": "MONTH",
+          "fuel": 98140,
+          "stars": 96,
+          "startDate": 1438387200000,
+          "steps": 237672
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 21150,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 20,
+            "dailyGoalsTotal": 30
+          },
+          "distance": 188.2421432,
+          "frequency": "MONTH",
+          "fuel": 79239,
+          "stars": 128,
+          "startDate": 1441065600000,
+          "steps": 239068
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 21939,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 20,
+            "dailyGoalsTotal": 31
+          },
+          "distance": 184.96655919999995,
+          "frequency": "MONTH",
+          "fuel": 82167,
+          "stars": 121,
+          "startDate": 1443657600000,
+          "steps": 234908
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 19922,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 20,
+            "dailyGoalsTotal": 30
+          },
+          "distance": 160.3768446,
+          "frequency": "MONTH",
+          "fuel": 74509,
+          "stars": 106,
+          "startDate": 1446336000000,
+          "steps": 203679
+        },
+        {
+          "activityType": "ALL_DAY",
+          "calories": 13762,
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 13,
+            "dailyGoalsTotal": 21
+          },
+          "distance": 110.11552780000001,
+          "frequency": "MONTH",
+          "fuel": 51538,
+          "stars": 67,
+          "startDate": 1448928000000,
+          "steps": 139847
+        }
+      ],
+      "summary": {
+        "activeTime": 181554,
+        "activeTimePeriods": [
+          {
+            "00am-02am": 27928,
+            "02am-04am": 6120,
+            "02pm-04pm": 116097,
+            "04am-06am": 2285,
+            "04pm-06pm": 127434,
+            "06am-08am": 24382,
+            "06pm-08pm": 113303,
+            "08am-10am": 58749,
+            "08pm-10pm": 99665,
+            "10am-12pm": 111188,
+            "10pm-00am": 59673,
+            "12pm-02pm": 114790
+          }
+        ],
+        "activityType": "ALL_DAY",
+        "avgFuelPerDay": 2524,
+        "avgStarsPerDay": 3,
+        "calories": 238792,
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 223,
+          "dailyGoalsTotal": 354
+        },
+        "distance": 1797.0594,
+        "frequency": "ANNUAL",
+        "lastKnownDailyGoal": 2200.0,
+        "leastActiveTimePeriod": "04am-08am",
+        "mostActiveTimePeriod": "04pm-08pm",
+        "mostRecentDSTOffset": "00:00",
+        "mostRecentTZOffset": "-05:00",
+        "stars": 1086,
+        "startDate": 1420070400000,
+        "steps": 2280897,
+        "totalFuel": 893774
+      }
+    }
+  ]
+}
