@@ -14,26 +14,25 @@ var news = {
 
 news.currentNews = function(){
 	var opacity = 1;
-	var newsHTML = '';
+	var newsHTML = '<p class="marquee">';
 	for(i = 1; i <= news.categories; i++){
 		var params = {t:'day', c: i.toString()};
 		$.getJSON(news.newsUrl, params, function(c){
 			return function(data) {
 				if(data){
 					//var category = news.categoryMap[c];
- 					//newsHTML += '<div class="news-category">' + category + '</div>';
+					//newsHTML += '<div class="news-category">' + category + '</div>';
+					//newsHTML += '<hr style="opacity:' + opacity + '"><p class="headlines">';
 					var headline = 0;
-					newsHTML += '<hr style="opacity:' + opacity + '"><p class="headlines">';
 					while(headline < news.headlines && headline < data.length){
 						var title = data[headline].title;
 						var likes = data[headline].w;
-						newsHTML += '&#8227; ' + title + '<br>';
+						newsHTML += ' &#149; &#149; &#149; ' + title + '.';
 						headline++;
 					}
 					opacity -= 0.15;
-					newsHTML += '</p>';
-
 					if(c == news.categories){
+						newsHTML += '</p>';
 						$(".news").fadeOut("slow", function(){
 							$(".news").html(newsHTML);
 							$(".news").fadeIn("slow");
