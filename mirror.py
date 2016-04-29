@@ -22,10 +22,6 @@ def fuel():
 	print startDate
 	print endDate
 
-	#deviceId=27ab3727-d8ae-4589-8b01-35fb6a2dd0cd
-	#access_token=r0JWGX9zTL2GfMwAeRoG4JUreSAr
-	#https://api.nike.com/v1.0/me/sync/lasttimestamp?deviceId=27ab3727-d8ae-4589-8b01-35fb6a2dd0cd&access_token=r0JWGX9zTL2GfMwAeRoG4JUreSAr
-
 	#Number of Buckets to get the Data in. default: (24 * 60)
 	fidelity = 24
 
