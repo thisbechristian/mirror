@@ -9,21 +9,21 @@ var fuelband = {
 		'saturday': 5,
 		'sunday': 6,
 	},
-	refreshTime: 24 * 60 * 60 * 1000 //1 day
+	refreshTime: 8 * 60 * 60 * 1000, //8 hours
 }
 
-fuelband.currentFuelBand = function(){ 
+fuelband.currentFuelBand = function(){
 	$.getJSON(fuelband.fuelUrl, function(data){
 		if(data){
-		
-		var day = moment().format('dddd').toLowerCase();		
+
+		var day = moment().format('dddd').toLowerCase();
 		var thisWeekCounter = fuelband.dayMap[day];
 		var thisWeek = data.weekly[1];
-		var lastWeek = data.weekly[0];	
-		
+		var lastWeek = data.weekly[0];
+
 		var fuelbandHTML = '<table class="fuelband-table">';
 		var opacity = 1;
-		
+
 		for(i = thisWeekCounter; i >= 0; i--){
 			var day = thisWeek.history[i];
 			var steps = day.steps;
@@ -33,40 +33,40 @@ fuelband.currentFuelBand = function(){
 			date = moment(date).format('ddd');
 			var goal = day.dailyGoal.dailyGoalsSuccessful;
 			var icon = goal ? 'fa fa-check' : 'fa fa-times';
-			
+
 			//Date is today
 			if(i == thisWeekCounter){
-				var fuelIconHTML = '<span class="wi wi-lightning"></span>'; 
+				var fuelIconHTML = '<span class="wi wi-lightning"></span>';
 				var fuelHTML = fuelIconHTML + ' ' + fuel;
-				var stepsIconHTML = '<span class="fa fa-heartbeat"></span>'; 
+				var stepsIconHTML = '<span class="fa fa-heartbeat"></span>';
 				var stepsHTML = stepsIconHTML + ' ' + steps;
-				
+
 				$(".fuel").fadeOut("slow", function(){
 					$(".fuel").html(fuelHTML);
 					$(".fuel").fadeIn("slow");
-				});	
-				
+				});
+
 				$(".steps").fadeOut("slow", function(){
 					$(".steps").html(stepsHTML);
 					$(".steps").fadeIn("slow");
-				});	
-				
+				});
+
 			}
 			else
 			{
 				fuelbandHTML += '<tr style="opacity:' + opacity + '">';
-			
+
 				fuelbandHTML += '<td class="' + icon + '"></td>';
 				fuelbandHTML += '<td class="day">' + date + '</td>';
 				fuelbandHTML += '<td class="fuel">' + fuel + '</td>';
 				fuelbandHTML += '<td class="steps">' + steps + '</td>';
-			
+
 				fuelbandHTML += '</tr>';
 			}
-			
+
 			opacity -= 0.115;
 		}
-		
+
 		for(i = 6; i > thisWeekCounter; i--){
 			var day = lastWeek.history[i];
 			var steps = day.steps;
@@ -76,26 +76,26 @@ fuelband.currentFuelBand = function(){
 			date = moment(date).format('ddd');
 			var goal = day.dailyGoal.dailyGoalsSuccessful;
 			var icon = goal ? 'fa fa-check' : 'fa fa-times';
-			
+
 			fuelbandHTML += '<tr style="opacity:' + opacity + '">';
-			
+
 			fuelbandHTML += '<td class="icon-small ' + icon + '"></td>';
 			fuelbandHTML += '<td class="day">' + date + '</td>';
 			fuelbandHTML += '<td class="fuel">' + fuel + '</td>';
 			fuelbandHTML += '<td class="steps">' + steps + '</td>';
-			
+
 			fuelbandHTML += '</tr>';
-			
+
 			opacity -= 0.115;
 		}
-		
+
 		fuelbandHTML += '</table>';
 
 		$(".fuelstats").fadeOut("slow", function(){
 			$(".fuelstats").html(fuelbandHTML);
 			$(".fuelstats").fadeIn("slow");
-		});		
-			
+		});
+
 		}
 	});
 }
