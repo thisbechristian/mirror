@@ -1,0 +1,3316 @@
+{
+  "daily": [
+    {
+      "activityIds": [
+        {
+          "activityId": "dc91825a-a57b-4594-90ec-8ffa2fbbf378"
+        }
+      ], 
+      "history": [
+        {
+          "calories": 5, 
+          "distance": 0.0, 
+          "fuel": 21, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 1, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 11
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 3, 
+          "stars": 0, 
+          "steps": 7
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 6
+        }, 
+        {
+          "calories": 31, 
+          "distance": 0.0, 
+          "fuel": 118, 
+          "stars": 1, 
+          "steps": 414
+        }, 
+        {
+          "calories": 50, 
+          "distance": 0.0, 
+          "fuel": 188, 
+          "stars": 0, 
+          "steps": 429
+        }, 
+        {
+          "calories": 28, 
+          "distance": 0.0, 
+          "fuel": 106, 
+          "stars": 0, 
+          "steps": 323
+        }, 
+        {
+          "calories": 18, 
+          "distance": 0.0, 
+          "fuel": 64, 
+          "stars": 0, 
+          "steps": 77
+        }, 
+        {
+          "calories": 42, 
+          "distance": 0.0, 
+          "fuel": 159, 
+          "stars": 0, 
+          "steps": 392
+        }, 
+        {
+          "calories": 30, 
+          "distance": 0.0, 
+          "fuel": 112, 
+          "stars": 0, 
+          "steps": 473
+        }, 
+        {
+          "calories": 21, 
+          "distance": 0.0, 
+          "fuel": 79, 
+          "stars": 0, 
+          "steps": 376
+        }, 
+        {
+          "calories": 29, 
+          "distance": 0.0, 
+          "fuel": 110, 
+          "stars": 0, 
+          "steps": 225
+        }, 
+        {
+          "calories": 72, 
+          "distance": 0.0, 
+          "fuel": 272, 
+          "stars": 1, 
+          "steps": 775
+        }, 
+        {
+          "calories": 69, 
+          "distance": 0.0, 
+          "fuel": 257, 
+          "stars": 0, 
+          "steps": 621
+        }, 
+        {
+          "calories": 37, 
+          "distance": 0.0, 
+          "fuel": 142, 
+          "stars": 0, 
+          "steps": 457
+        }, 
+        {
+          "calories": 35, 
+          "distance": 0.0, 
+          "fuel": 130, 
+          "stars": 0, 
+          "steps": 182
+        }, 
+        {
+          "calories": 52, 
+          "distance": 0.0, 
+          "fuel": 194, 
+          "stars": 0, 
+          "steps": 173
+        }, 
+        {
+          "calories": 55, 
+          "distance": 0.0, 
+          "fuel": 210, 
+          "stars": 0, 
+          "steps": 347
+        }, 
+        {
+          "calories": 12, 
+          "distance": 0.0, 
+          "fuel": 45, 
+          "stars": 0, 
+          "steps": 66
+        }
+      ], 
+      "summary": {
+        "activeTime": 522, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 21, 
+            "02am-04am": 2, 
+            "02pm-04pm": 191, 
+            "04am-06am": 1, 
+            "04pm-06pm": 382, 
+            "06am-08am": 5, 
+            "06pm-08pm": 399, 
+            "08am-10am": 120, 
+            "08pm-10pm": 324, 
+            "10am-12pm": 294, 
+            "10pm-00am": 255, 
+            "12pm-02pm": 223
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 2217, 
+        "avgStarsPerDay": 2, 
+        "calories": 589, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 1, 
+          "dailyGoalsTotal": 1, 
+          "progress": 2217.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 4.21574, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "04am-08am", 
+        "mostActiveTimePeriod": "04pm-08pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-05:00", 
+        "stars": 2, 
+        "startDate": 1461542400000, 
+        "steps": 5354, 
+        "tags": {}, 
+        "totalFuel": 2217
+      }
+    }, 
+    {
+      "activityIds": [
+        {
+          "activityId": "58826641-a40a-49db-aa52-24037d598c11"
+        }
+      ], 
+      "history": [
+        {
+          "calories": 2, 
+          "distance": 0.0, 
+          "fuel": 8, 
+          "stars": 0, 
+          "steps": 47
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 3, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 8, 
+          "distance": 0.0, 
+          "fuel": 31, 
+          "stars": 0, 
+          "steps": 45
+        }, 
+        {
+          "calories": 78, 
+          "distance": 0.0, 
+          "fuel": 295, 
+          "stars": 1, 
+          "steps": 671
+        }, 
+        {
+          "calories": 36, 
+          "distance": 0.0, 
+          "fuel": 134, 
+          "stars": 0, 
+          "steps": 276
+        }, 
+        {
+          "calories": 22, 
+          "distance": 0.0, 
+          "fuel": 82, 
+          "stars": 0, 
+          "steps": 72
+        }, 
+        {
+          "calories": 68, 
+          "distance": 0.0, 
+          "fuel": 256, 
+          "stars": 1, 
+          "steps": 902
+        }, 
+        {
+          "calories": 16, 
+          "distance": 0.0, 
+          "fuel": 60, 
+          "stars": 0, 
+          "steps": 101
+        }, 
+        {
+          "calories": 11, 
+          "distance": 0.0, 
+          "fuel": 40, 
+          "stars": 0, 
+          "steps": 102
+        }, 
+        {
+          "calories": 27, 
+          "distance": 0.0, 
+          "fuel": 101, 
+          "stars": 0, 
+          "steps": 179
+        }, 
+        {
+          "calories": 120, 
+          "distance": 0.0, 
+          "fuel": 452, 
+          "stars": 1, 
+          "steps": 2134
+        }, 
+        {
+          "calories": 8, 
+          "distance": 0.0, 
+          "fuel": 33, 
+          "stars": 0, 
+          "steps": 56
+        }, 
+        {
+          "calories": 3, 
+          "distance": 0.0, 
+          "fuel": 8, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 9, 
+          "distance": 0.0, 
+          "fuel": 37, 
+          "stars": 0, 
+          "steps": 60
+        }, 
+        {
+          "calories": 69, 
+          "distance": 0.0, 
+          "fuel": 256, 
+          "stars": 1, 
+          "steps": 1126
+        }, 
+        {
+          "calories": 72, 
+          "distance": 0.0, 
+          "fuel": 271, 
+          "stars": 1, 
+          "steps": 1171
+        }, 
+        {
+          "calories": 17, 
+          "distance": 0.0, 
+          "fuel": 63, 
+          "stars": 0, 
+          "steps": 131
+        }, 
+        {
+          "calories": 15, 
+          "distance": 0.0, 
+          "fuel": 60, 
+          "stars": 0, 
+          "steps": 143
+        }, 
+        {
+          "calories": 10, 
+          "distance": 0.0, 
+          "fuel": 36, 
+          "stars": 0, 
+          "steps": 6
+        }, 
+        {
+          "calories": 14, 
+          "distance": 0.0, 
+          "fuel": 54, 
+          "stars": 0, 
+          "steps": 73
+        }
+      ], 
+      "summary": {
+        "activeTime": 473, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 10, 
+            "02am-04am": 3, 
+            "02pm-04pm": 485, 
+            "04am-06am": 2, 
+            "04pm-06pm": 45, 
+            "06am-08am": 326, 
+            "06pm-08pm": 527, 
+            "08am-10am": 216, 
+            "08pm-10pm": 123, 
+            "10am-12pm": 316, 
+            "10pm-00am": 90, 
+            "12pm-02pm": 141
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 2284, 
+        "avgStarsPerDay": 5, 
+        "calories": 607, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 1, 
+          "dailyGoalsTotal": 1, 
+          "progress": 2284.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 5.74408, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "00am-04am", 
+        "mostActiveTimePeriod": "12pm-04pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-05:00", 
+        "stars": 5, 
+        "startDate": 1461628800000, 
+        "steps": 7295, 
+        "tags": {}, 
+        "totalFuel": 2284
+      }
+    }, 
+    {
+      "activityIds": [
+        {
+          "activityId": "d72df106-dd9a-4ae9-b7b3-dafb2b70e792"
+        }
+      ], 
+      "history": [
+        {
+          "calories": 7, 
+          "distance": 0.0, 
+          "fuel": 29, 
+          "stars": 0, 
+          "steps": 9
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 1, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 7, 
+          "stars": 0, 
+          "steps": 33
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 5, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 22, 
+          "distance": 0.0, 
+          "fuel": 81, 
+          "stars": 0, 
+          "steps": 288
+        }, 
+        {
+          "calories": 34, 
+          "distance": 0.0, 
+          "fuel": 127, 
+          "stars": 1, 
+          "steps": 567
+        }, 
+        {
+          "calories": 3, 
+          "distance": 0.0, 
+          "fuel": 14, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 43, 
+          "distance": 0.0, 
+          "fuel": 159, 
+          "stars": 0, 
+          "steps": 757
+        }, 
+        {
+          "calories": 74, 
+          "distance": 0.0, 
+          "fuel": 278, 
+          "stars": 1, 
+          "steps": 1264
+        }, 
+        {
+          "calories": 10, 
+          "distance": 0.0, 
+          "fuel": 41, 
+          "stars": 0, 
+          "steps": 20
+        }, 
+        {
+          "calories": 7, 
+          "distance": 0.0, 
+          "fuel": 23, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 10, 
+          "distance": 0.0, 
+          "fuel": 40, 
+          "stars": 0, 
+          "steps": 58
+        }, 
+        {
+          "calories": 125, 
+          "distance": 0.0, 
+          "fuel": 467, 
+          "stars": 1, 
+          "steps": 1921
+        }, 
+        {
+          "calories": 41, 
+          "distance": 0.0, 
+          "fuel": 156, 
+          "stars": 0, 
+          "steps": 227
+        }, 
+        {
+          "calories": 50, 
+          "distance": 0.0, 
+          "fuel": 189, 
+          "stars": 0, 
+          "steps": 169
+        }, 
+        {
+          "calories": 41, 
+          "distance": 0.0, 
+          "fuel": 154, 
+          "stars": 0, 
+          "steps": 264
+        }, 
+        {
+          "calories": 54, 
+          "distance": 0.0, 
+          "fuel": 203, 
+          "stars": 0, 
+          "steps": 497
+        }, 
+        {
+          "calories": 16, 
+          "distance": 0.0, 
+          "fuel": 58, 
+          "stars": 0, 
+          "steps": 71
+        }, 
+        {
+          "calories": 32, 
+          "distance": 0.0, 
+          "fuel": 121, 
+          "stars": 0, 
+          "steps": 174
+        }
+      ], 
+      "summary": {
+        "activeTime": 460, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 29, 
+            "02am-04am": 1, 
+            "02pm-04pm": 64, 
+            "04am-06am": 0, 
+            "04pm-06pm": 507, 
+            "06am-08am": 9, 
+            "06pm-08pm": 345, 
+            "08am-10am": 86, 
+            "08pm-10pm": 357, 
+            "10am-12pm": 141, 
+            "10pm-00am": 179, 
+            "12pm-02pm": 437
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 2155, 
+        "avgStarsPerDay": 3, 
+        "calories": 573, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 1, 
+          "dailyGoalsTotal": 1, 
+          "progress": 2155.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 4.97558, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "04am-08am", 
+        "mostActiveTimePeriod": "04pm-08pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-05:00", 
+        "stars": 3, 
+        "startDate": 1461715200000, 
+        "steps": 6319, 
+        "tags": {}, 
+        "totalFuel": 2155
+      }
+    }, 
+    {
+      "activityIds": [
+        {
+          "activityId": "1e1d78fe-81f9-441a-9203-6bdf41ae119b"
+        }
+      ], 
+      "history": [
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 1, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 1, 
+          "stars": 0, 
+          "steps": 20
+        }, 
+        {
+          "calories": 1, 
+          "distance": 0.0, 
+          "fuel": 2, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 2, 
+          "distance": 0.0, 
+          "fuel": 9, 
+          "stars": 0, 
+          "steps": 9
+        }, 
+        {
+          "calories": 35, 
+          "distance": 0.0, 
+          "fuel": 142, 
+          "stars": 1, 
+          "steps": 503
+        }, 
+        {
+          "calories": 88, 
+          "distance": 0.0, 
+          "fuel": 353, 
+          "stars": 1, 
+          "steps": 851
+        }, 
+        {
+          "calories": 65, 
+          "distance": 0.0, 
+          "fuel": 267, 
+          "stars": 0, 
+          "steps": 751
+        }, 
+        {
+          "calories": 97, 
+          "distance": 0.0, 
+          "fuel": 407, 
+          "stars": 1, 
+          "steps": 1798
+        }, 
+        {
+          "calories": 68, 
+          "distance": 0.0, 
+          "fuel": 258, 
+          "stars": 1, 
+          "steps": 1469
+        }, 
+        {
+          "calories": 94, 
+          "distance": 0.0, 
+          "fuel": 398, 
+          "stars": 0, 
+          "steps": 1479
+        }, 
+        {
+          "calories": 46, 
+          "distance": 0.0, 
+          "fuel": 186, 
+          "stars": 0, 
+          "steps": 568
+        }, 
+        {
+          "calories": 4, 
+          "distance": 0.0, 
+          "fuel": 16, 
+          "stars": 1, 
+          "steps": 35
+        }, 
+        {
+          "calories": 15, 
+          "distance": 0.0, 
+          "fuel": 82, 
+          "stars": 0, 
+          "steps": 288
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 9, 
+          "distance": 0.0, 
+          "fuel": 60, 
+          "stars": 0, 
+          "steps": 283
+        }, 
+        {
+          "calories": 18, 
+          "distance": 0.0, 
+          "fuel": 89, 
+          "stars": 0, 
+          "steps": 343
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }
+      ], 
+      "summary": {
+        "activeTime": 456, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 1, 
+            "02am-04am": 0, 
+            "02pm-04pm": 656, 
+            "04am-06am": 0, 
+            "04pm-06pm": 202, 
+            "06am-08am": 3, 
+            "06pm-08pm": 82, 
+            "08am-10am": 9, 
+            "08pm-10pm": 149, 
+            "10am-12pm": 495, 
+            "10pm-00am": 0, 
+            "12pm-02pm": 674
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 2271, 
+        "avgStarsPerDay": 5, 
+        "calories": 542, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 1, 
+          "dailyGoalsTotal": 1, 
+          "progress": 2271.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 6.6118, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "00am-04am", 
+        "mostActiveTimePeriod": "12pm-04pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-05:00", 
+        "stars": 5, 
+        "startDate": 1461801600000, 
+        "steps": 8397, 
+        "tags": {}, 
+        "totalFuel": 2271
+      }
+    }, 
+    {
+      "activityIds": [
+        {
+          "activityId": "5f7d5a49-a451-44b6-ac81-ce721c59efcc"
+        }
+      ], 
+      "history": [
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 28, 
+          "distance": 0.0, 
+          "fuel": 114, 
+          "stars": 0, 
+          "steps": 336
+        }, 
+        {
+          "calories": 31, 
+          "distance": 0.0, 
+          "fuel": 120, 
+          "stars": 0, 
+          "steps": 411
+        }, 
+        {
+          "calories": 41, 
+          "distance": 0.0, 
+          "fuel": 173, 
+          "stars": 0, 
+          "steps": 305
+        }, 
+        {
+          "calories": 22, 
+          "distance": 0.0, 
+          "fuel": 93, 
+          "stars": 0, 
+          "steps": 184
+        }, 
+        {
+          "calories": 16, 
+          "distance": 0.0, 
+          "fuel": 60, 
+          "stars": 0, 
+          "steps": 26
+        }, 
+        {
+          "calories": 17, 
+          "distance": 0.0, 
+          "fuel": 64, 
+          "stars": 0, 
+          "steps": 6
+        }, 
+        {
+          "calories": 28, 
+          "distance": 0.0, 
+          "fuel": 116, 
+          "stars": 0, 
+          "steps": 220
+        }, 
+        {
+          "calories": 21, 
+          "distance": 0.0, 
+          "fuel": 80, 
+          "stars": 0, 
+          "steps": 7
+        }, 
+        {
+          "calories": 15, 
+          "distance": 0.0, 
+          "fuel": 54, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 74, 
+          "distance": 0.0, 
+          "fuel": 297, 
+          "stars": 0, 
+          "steps": 972
+        }, 
+        {
+          "calories": 72, 
+          "distance": 0.0, 
+          "fuel": 268, 
+          "stars": 1, 
+          "steps": 686
+        }, 
+        {
+          "calories": 42, 
+          "distance": 0.0, 
+          "fuel": 159, 
+          "stars": 0, 
+          "steps": 571
+        }, 
+        {
+          "calories": 51, 
+          "distance": 0.0, 
+          "fuel": 193, 
+          "stars": 0, 
+          "steps": 386
+        }, 
+        {
+          "calories": 15, 
+          "distance": 0.0, 
+          "fuel": 54, 
+          "stars": 0, 
+          "steps": 223
+        }, 
+        {
+          "calories": 5, 
+          "distance": 0.0, 
+          "fuel": 20, 
+          "stars": 0, 
+          "steps": 35
+        }
+      ], 
+      "summary": {
+        "activeTime": 490, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 0, 
+            "02am-04am": 0, 
+            "02pm-04pm": 180, 
+            "04am-06am": 0, 
+            "04pm-06pm": 134, 
+            "06am-08am": 0, 
+            "06pm-08pm": 565, 
+            "08am-10am": 114, 
+            "08pm-10pm": 352, 
+            "10am-12pm": 293, 
+            "10pm-00am": 74, 
+            "12pm-02pm": 153
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 1865, 
+        "avgStarsPerDay": 1, 
+        "calories": 478, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0, 
+          "dailyGoalsTotal": 1, 
+          "progress": 1865.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 3.43936, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "04am-08am", 
+        "mostActiveTimePeriod": "04pm-08pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-04:00", 
+        "stars": 1, 
+        "startDate": 1461888000000, 
+        "steps": 4368, 
+        "tags": {}, 
+        "totalFuel": 1865
+      }
+    }, 
+    {
+      "activityIds": [
+        {
+          "activityId": "408bbfe0-9829-4600-a750-a44f24090bbb"
+        }
+      ], 
+      "history": [
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 18, 
+          "distance": 0.0, 
+          "fuel": 85, 
+          "stars": 0, 
+          "steps": 286
+        }, 
+        {
+          "calories": 46, 
+          "distance": 0.0, 
+          "fuel": 188, 
+          "stars": 0, 
+          "steps": 229
+        }, 
+        {
+          "calories": 62, 
+          "distance": 0.0, 
+          "fuel": 233, 
+          "stars": 1, 
+          "steps": 722
+        }, 
+        {
+          "calories": 45, 
+          "distance": 0.0, 
+          "fuel": 168, 
+          "stars": 0, 
+          "steps": 444
+        }, 
+        {
+          "calories": 34, 
+          "distance": 0.0, 
+          "fuel": 128, 
+          "stars": 0, 
+          "steps": 325
+        }, 
+        {
+          "calories": 56, 
+          "distance": 0.0, 
+          "fuel": 212, 
+          "stars": 0, 
+          "steps": 734
+        }, 
+        {
+          "calories": 41, 
+          "distance": 0.0, 
+          "fuel": 153, 
+          "stars": 0, 
+          "steps": 102
+        }, 
+        {
+          "calories": 134, 
+          "distance": 0.0, 
+          "fuel": 505, 
+          "stars": 1, 
+          "steps": 1357
+        }, 
+        {
+          "calories": 34, 
+          "distance": 0.0, 
+          "fuel": 125, 
+          "stars": 0, 
+          "steps": 262
+        }, 
+        {
+          "calories": 11, 
+          "distance": 0.0, 
+          "fuel": 43, 
+          "stars": 0, 
+          "steps": 151
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "distance": 0.0, 
+          "fuel": 0, 
+          "stars": 0, 
+          "steps": 0
+        }
+      ], 
+      "summary": {
+        "activeTime": 361, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 0, 
+            "02am-04am": 0, 
+            "02pm-04pm": 365, 
+            "04am-06am": 0, 
+            "04pm-06pm": 630, 
+            "06am-08am": 0, 
+            "06pm-08pm": 43, 
+            "08am-10am": 85, 
+            "08pm-10pm": 0, 
+            "10am-12pm": 421, 
+            "10pm-00am": 0, 
+            "12pm-02pm": 296
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 1840, 
+        "avgStarsPerDay": 2, 
+        "calories": 481, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0, 
+          "dailyGoalsTotal": 1, 
+          "progress": 1840.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 3.63149, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "08pm-00am", 
+        "mostActiveTimePeriod": "04pm-08pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-05:00", 
+        "stars": 2, 
+        "startDate": 1461974400000, 
+        "steps": 4612, 
+        "tags": {}, 
+        "totalFuel": 1840
+      }
+    }, 
+    {
+      "activityIds": [], 
+      "history": [], 
+      "summary": {
+        "activeTime": 0, 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 0, 
+        "calories": 0, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0, 
+          "dailyGoalsTotal": 1, 
+          "progress": 0.0, 
+          "targetValue": 2000.0
+        }, 
+        "distance": 0.0, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "mostRecentDSTOffset": "+00:00", 
+        "mostRecentTZOffset": "-04:00", 
+        "startDate": 1462060800000, 
+        "steps": 0, 
+        "tags": {}, 
+        "totalFuel": 0
+      }
+    }, 
+    {
+      "activityIds": [], 
+      "history": [], 
+      "summary": {
+        "activeTime": 0, 
+        "avgFuelPerDay": 0, 
+        "calories": 0, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0, 
+          "dailyGoalsTotal": 0, 
+          "progress": 0.0, 
+          "targetValue": 2000
+        }, 
+        "distance": 0.0, 
+        "frequency": "DAILY", 
+        "lastKnownDailyGoal": 2000, 
+        "mostRecentDSTOffset": "+00:00", 
+        "mostRecentTZOffset": "-04:00", 
+        "startDate": 1462147200000, 
+        "steps": 0, 
+        "tags": {}, 
+        "totalFuel": 0
+      }
+    }
+  ], 
+  "monthly": [
+    {
+      "activityIds": [
+        {
+          "activityId": "bd819b31-0a1c-497f-a63b-9ab1108a543f"
+        }, 
+        {
+          "activityId": "4a34d2ed-3985-43bb-860f-372a5d536887"
+        }, 
+        {
+          "activityId": "b79ea7da-5656-4bd3-accf-98bd6fcb8d54"
+        }, 
+        {
+          "activityId": "8c2b9506-60c5-49af-ae8a-9d6dedacf900"
+        }, 
+        {
+          "activityId": "122c29c6-86d0-4034-a17a-f2244983f884"
+        }, 
+        {
+          "activityId": "27841555-3e50-453d-a7c0-24b3a1d9919b"
+        }, 
+        {
+          "activityId": "78e46d40-ce82-4c43-aa20-3c505c1a9a1b"
+        }, 
+        {
+          "activityId": "285668d4-2b43-46d3-abed-97fa3dc3278e"
+        }, 
+        {
+          "activityId": "6f3e5fb9-1da0-4010-a149-9cf5d4c44fd1"
+        }, 
+        {
+          "activityId": "c53f48d1-e56e-4270-98bd-ca3256002071"
+        }, 
+        {
+          "activityId": "b5fdda22-2011-4811-8388-6af6bec5f779"
+        }, 
+        {
+          "activityId": "6ac70fb4-04e6-4ce3-a800-10e27429242d"
+        }, 
+        {
+          "activityId": "37ff32b1-fba7-4f43-92ea-0bd5ae4a9d8e"
+        }, 
+        {
+          "activityId": "cec5e716-0f60-4b9b-a2a7-0f48b58a3e48"
+        }, 
+        {
+          "activityId": "53b24ffc-7173-40b8-b985-55e1ee40438d"
+        }, 
+        {
+          "activityId": "75efe4f6-db8c-4cbb-9f0a-6043cba51146"
+        }, 
+        {
+          "activityId": "133793b8-dd70-4794-a74e-fe70d324f9ca"
+        }, 
+        {
+          "activityId": "267fbc39-ba49-4968-8684-f07e4cb17bf7"
+        }, 
+        {
+          "activityId": "4edb979d-beb5-4a32-b4b2-28c14f09eb87"
+        }, 
+        {
+          "activityId": "49196e71-e3bc-40c7-8750-d54e580ea3bd"
+        }, 
+        {
+          "activityId": "4214d461-9292-41bc-8b17-be3572beb8eb"
+        }, 
+        {
+          "activityId": "b7f25010-6087-4356-9f9d-0c1d8867137e"
+        }, 
+        {
+          "activityId": "73621a37-9617-4402-b313-c0ef9f43c0b2"
+        }, 
+        {
+          "activityId": "7762c9c6-6819-4491-bd80-94574ab66ad0"
+        }, 
+        {
+          "activityId": "dc91825a-a57b-4594-90ec-8ffa2fbbf378"
+        }, 
+        {
+          "activityId": "58826641-a40a-49db-aa52-24037d598c11"
+        }, 
+        {
+          "activityId": "d72df106-dd9a-4ae9-b7b3-dafb2b70e792"
+        }, 
+        {
+          "activityId": "1e1d78fe-81f9-441a-9203-6bdf41ae119b"
+        }, 
+        {
+          "activityId": "5f7d5a49-a451-44b6-ac81-ce721c59efcc"
+        }, 
+        {
+          "activityId": "408bbfe0-9829-4600-a750-a44f24090bbb"
+        }
+      ], 
+      "history": [
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 915, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 3426.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 7.8645512, 
+          "frequency": "DAILY", 
+          "fuel": 3426, 
+          "stars": 5, 
+          "startDate": 1459468800000, 
+          "steps": 9988
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 746, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2794.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.516524400000001, 
+          "frequency": "DAILY", 
+          "fuel": 2794, 
+          "stars": 3, 
+          "startDate": 1459555200000, 
+          "steps": 7006
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 417, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1563.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 2.7645614, 
+          "frequency": "DAILY", 
+          "fuel": 1563, 
+          "stars": 2, 
+          "startDate": 1459641600000, 
+          "steps": 3511
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 375, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1407.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.3283398, 
+          "frequency": "DAILY", 
+          "fuel": 1407, 
+          "stars": 6, 
+          "startDate": 1459728000000, 
+          "steps": 4227
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 484, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1811.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.896840599999999, 
+          "frequency": "DAILY", 
+          "fuel": 1811, 
+          "stars": 5, 
+          "startDate": 1459814400000, 
+          "steps": 6219
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 551, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2065.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.292115399999999, 
+          "frequency": "DAILY", 
+          "fuel": 2065, 
+          "stars": 5, 
+          "startDate": 1459900800000, 
+          "steps": 6721
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 795, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2976.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 7.690535799999999, 
+          "frequency": "DAILY", 
+          "fuel": 2976, 
+          "stars": 7, 
+          "startDate": 1459987200000, 
+          "steps": 9767
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 618, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2314.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.15747, 
+          "frequency": "DAILY", 
+          "fuel": 2314, 
+          "stars": 2, 
+          "startDate": 1460073600000, 
+          "steps": 6550
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 618, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2315.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.5055048, 
+          "frequency": "DAILY", 
+          "fuel": 2315, 
+          "stars": 4, 
+          "startDate": 1460160000000, 
+          "steps": 4452
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 466, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1747.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.3606232, 
+          "frequency": "DAILY", 
+          "fuel": 1747, 
+          "stars": 2, 
+          "startDate": 1460246400000, 
+          "steps": 4268
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 622, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2329.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.7905396, 
+          "frequency": "DAILY", 
+          "fuel": 2329, 
+          "stars": 5, 
+          "startDate": 1460332800000, 
+          "steps": 7354
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 646, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2419.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 6.1692789999999995, 
+          "frequency": "DAILY", 
+          "fuel": 2419, 
+          "stars": 6, 
+          "startDate": 1460419200000, 
+          "steps": 7835
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 515, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1927.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.9661338, 
+          "frequency": "DAILY", 
+          "fuel": 1927, 
+          "stars": 3, 
+          "startDate": 1460505600000, 
+          "steps": 5037
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 475, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1778.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.117314599999999, 
+          "frequency": "DAILY", 
+          "fuel": 1778, 
+          "stars": 5, 
+          "startDate": 1460592000000, 
+          "steps": 5229
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 739, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2767.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 6.3771526000000005, 
+          "frequency": "DAILY", 
+          "fuel": 2767, 
+          "stars": 2, 
+          "startDate": 1460678400000, 
+          "steps": 8099
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 1635, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 6119.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 11.898401400000001, 
+          "frequency": "DAILY", 
+          "fuel": 6119, 
+          "stars": 7, 
+          "startDate": 1460764800000, 
+          "steps": 15111
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 921, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 3449.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 7.2771508, 
+          "frequency": "DAILY", 
+          "fuel": 3449, 
+          "stars": 7, 
+          "startDate": 1460851200000, 
+          "steps": 9242
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 340, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1273.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 2.7606244, 
+          "frequency": "DAILY", 
+          "fuel": 1273, 
+          "stars": 1, 
+          "startDate": 1460937600000, 
+          "steps": 3506
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 565, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2116.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 6.201562399999999, 
+          "frequency": "DAILY", 
+          "fuel": 2116, 
+          "stars": 4, 
+          "startDate": 1461024000000, 
+          "steps": 7876
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 614, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2300.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.2535328, 
+          "frequency": "DAILY", 
+          "fuel": 2300, 
+          "stars": 3, 
+          "startDate": 1461110400000, 
+          "steps": 6672
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 505, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1892.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.047234, 
+          "frequency": "DAILY", 
+          "fuel": 1892, 
+          "stars": 5, 
+          "startDate": 1461196800000, 
+          "steps": 6410
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 636, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2380.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.468493, 
+          "frequency": "DAILY", 
+          "fuel": 2380, 
+          "stars": 2, 
+          "startDate": 1461283200000, 
+          "steps": 6945
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 1784, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 6676.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 13.136981599999999, 
+          "frequency": "DAILY", 
+          "fuel": 6676, 
+          "stars": 10, 
+          "startDate": 1461369600000, 
+          "steps": 16684
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 559, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2094.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.364558199999999, 
+          "frequency": "DAILY", 
+          "fuel": 2094, 
+          "stars": 4, 
+          "startDate": 1461456000000, 
+          "steps": 5543
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 589, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2217.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.2157396, 
+          "frequency": "DAILY", 
+          "fuel": 2217, 
+          "stars": 2, 
+          "startDate": 1461542400000, 
+          "steps": 5354
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 607, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2284.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.744083, 
+          "frequency": "DAILY", 
+          "fuel": 2284, 
+          "stars": 5, 
+          "startDate": 1461628800000, 
+          "steps": 7295
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 573, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2155.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.9755806, 
+          "frequency": "DAILY", 
+          "fuel": 2155, 
+          "stars": 3, 
+          "startDate": 1461715200000, 
+          "steps": 6319
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 542, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2271.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 6.6117978, 
+          "frequency": "DAILY", 
+          "fuel": 2271, 
+          "stars": 5, 
+          "startDate": 1461801600000, 
+          "steps": 8397
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 478, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1865.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.4393632, 
+          "frequency": "DAILY", 
+          "fuel": 1865, 
+          "stars": 1, 
+          "startDate": 1461888000000, 
+          "steps": 4368
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 481, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1840.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.6314887999999996, 
+          "frequency": "DAILY", 
+          "fuel": 1840, 
+          "stars": 2, 
+          "startDate": 1461974400000, 
+          "steps": 4612
+        }
+      ], 
+      "summary": {
+        "activeTime": 14584, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 1679, 
+            "02am-04am": 498, 
+            "02pm-04pm": 11798, 
+            "04am-06am": 61, 
+            "04pm-06pm": 10494, 
+            "06am-08am": 457, 
+            "06pm-08pm": 9416, 
+            "08am-10am": 4311, 
+            "08pm-10pm": 8601, 
+            "10am-12pm": 10783, 
+            "10pm-00am": 4453, 
+            "12pm-02pm": 12018
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 2485, 
+        "avgStarsPerDay": 4, 
+        "calories": 19811, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 20, 
+          "dailyGoalsTotal": 30
+        }, 
+        "distance": 165.82408, 
+        "frequency": "MONTH", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "04am-08am", 
+        "mostActiveTimePeriod": "12pm-04pm", 
+        "mostRecentDSTOffset": "+01:00", 
+        "mostRecentTZOffset": "-05:00", 
+        "stars": 123, 
+        "startDate": 1459468800000, 
+        "steps": 210597, 
+        "totalFuel": 74569
+      }
+    }, 
+    {
+      "activityIds": [], 
+      "history": [
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462060800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462147200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462233600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462320000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462406400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462492800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462579200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462665600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462752000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462838400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462924800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463011200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463097600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463184000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463270400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463356800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463443200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463529600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463616000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463702400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463788800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463875200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1463961600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464048000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464134400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464220800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464307200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464393600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464480000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464566400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464652800000, 
+          "steps": 0
+        }
+      ], 
+      "summary": {
+        "activeTime": 0, 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 0, 
+        "calories": 0, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0, 
+          "dailyGoalsTotal": 1
+        }, 
+        "distance": 0.0, 
+        "frequency": "MONTH", 
+        "lastKnownDailyGoal": 2000.0, 
+        "mostRecentDSTOffset": "+00:00", 
+        "mostRecentTZOffset": "-04:00", 
+        "startDate": 1462060800000, 
+        "steps": 0, 
+        "totalFuel": 0
+      }
+    }
+  ], 
+  "serverTime": 1462208930083, 
+  "weekly": [
+    {
+      "activityIds": [
+        {
+          "activityId": "dc91825a-a57b-4594-90ec-8ffa2fbbf378"
+        }, 
+        {
+          "activityId": "58826641-a40a-49db-aa52-24037d598c11"
+        }, 
+        {
+          "activityId": "d72df106-dd9a-4ae9-b7b3-dafb2b70e792"
+        }, 
+        {
+          "activityId": "1e1d78fe-81f9-441a-9203-6bdf41ae119b"
+        }, 
+        {
+          "activityId": "5f7d5a49-a451-44b6-ac81-ce721c59efcc"
+        }, 
+        {
+          "activityId": "408bbfe0-9829-4600-a750-a44f24090bbb"
+        }
+      ], 
+      "history": [
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 589, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2217.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.2157396, 
+          "frequency": "DAILY", 
+          "fuel": 2217, 
+          "stars": 2, 
+          "startDate": 1461542400000, 
+          "steps": 5354
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 607, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2284.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 5.744083, 
+          "frequency": "DAILY", 
+          "fuel": 2284, 
+          "stars": 5, 
+          "startDate": 1461628800000, 
+          "steps": 7295
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 573, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2155.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 4.9755806, 
+          "frequency": "DAILY", 
+          "fuel": 2155, 
+          "stars": 3, 
+          "startDate": 1461715200000, 
+          "steps": 6319
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 542, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 1, 
+            "dailyGoalsTotal": 1, 
+            "progress": 2271.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 6.6117978, 
+          "frequency": "DAILY", 
+          "fuel": 2271, 
+          "stars": 5, 
+          "startDate": 1461801600000, 
+          "steps": 8397
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 478, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1865.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.4393632, 
+          "frequency": "DAILY", 
+          "fuel": 1865, 
+          "stars": 1, 
+          "startDate": 1461888000000, 
+          "steps": 4368
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 481, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 1840.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 3.6314887999999996, 
+          "frequency": "DAILY", 
+          "fuel": 1840, 
+          "stars": 2, 
+          "startDate": 1461974400000, 
+          "steps": 4612
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1, 
+            "progress": 0.0, 
+            "targetValue": 2000.0
+          }, 
+          "distance": 0.0, 
+          "frequency": "DAILY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462060800000, 
+          "steps": 0
+        }
+      ], 
+      "summary": {
+        "activeTime": 2762, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 61, 
+            "02am-04am": 6, 
+            "02pm-04pm": 1941, 
+            "04am-06am": 3, 
+            "04pm-06pm": 1900, 
+            "06am-08am": 343, 
+            "06pm-08pm": 1961, 
+            "08am-10am": 630, 
+            "08pm-10pm": 1305, 
+            "10am-12pm": 1960, 
+            "10pm-00am": 598, 
+            "12pm-02pm": 1924
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 1804, 
+        "avgStarsPerDay": 3, 
+        "calories": 3270, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 4, 
+          "dailyGoalsTotal": 7
+        }, 
+        "distance": 28.61805, 
+        "frequency": "WEEKLY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "leastActiveTimePeriod": "00am-04am", 
+        "mostActiveTimePeriod": "12pm-04pm", 
+        "mostRecentDSTOffset": "+00:00", 
+        "mostRecentTZOffset": "-04:00", 
+        "stars": 18, 
+        "startDate": 1461542400000, 
+        "steps": 36345, 
+        "totalFuel": 12632
+      }
+    }, 
+    {
+      "activityIds": [], 
+      "history": [
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462147200000, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462233600000, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462320000000, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462406400000, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462492800000, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462579200000, 
+          "steps": 0
+        }, 
+        {
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "WEEKLY", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462665600000, 
+          "steps": 0
+        }
+      ], 
+      "summary": {
+        "activeTime": 0, 
+        "avgFuelPerDay": 0, 
+        "calories": 0, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 0, 
+          "dailyGoalsTotal": 0
+        }, 
+        "distance": 0.0, 
+        "frequency": "WEEKLY", 
+        "lastKnownDailyGoal": 2000.0, 
+        "mostRecentDSTOffset": "+00:00", 
+        "mostRecentTZOffset": "-04:00", 
+        "startDate": 1462147200000, 
+        "steps": 0, 
+        "totalFuel": 0
+      }
+    }
+  ], 
+  "yearly": [
+    {
+      "activityIds": [
+        {
+          "activityId": "44e6eca5-c7e3-4996-9fb8-fce5961a6190"
+        }, 
+        {
+          "activityId": "48c77e3a-de68-4f02-88a0-736b766f1635"
+        }, 
+        {
+          "activityId": "710c3d63-fa16-4be9-a224-f11a70fdc1e2"
+        }, 
+        {
+          "activityId": "f20d1379-65b8-4e5a-b4bb-98760f2b40e5"
+        }, 
+        {
+          "activityId": "804f4d98-ae04-4393-8322-86796e21c911"
+        }, 
+        {
+          "activityId": "e2b4680c-8a71-42f7-b27d-95dadedd643a"
+        }, 
+        {
+          "activityId": "3fbb5c1f-5049-4a80-8eda-018c240dfcba"
+        }, 
+        {
+          "activityId": "2aa954f8-c14c-4e15-ae3a-ff8324052090"
+        }, 
+        {
+          "activityId": "fb2619a0-7668-4679-b161-daf4598cfb57"
+        }, 
+        {
+          "activityId": "d48a26e9-9166-4278-82e6-50bfee244aa7"
+        }, 
+        {
+          "activityId": "a14972d2-22b4-4d91-8f31-9b000986a047"
+        }, 
+        {
+          "activityId": "28387af2-9dd0-4af0-a41e-8f02d8d992c8"
+        }, 
+        {
+          "activityId": "dd7c777d-928c-4c51-ada7-27dd84a11f11"
+        }, 
+        {
+          "activityId": "7ab6da42-b983-4134-8bd7-b8483ab7f237"
+        }, 
+        {
+          "activityId": "bbc298f1-ed18-4ffa-8f47-b50c702c810a"
+        }, 
+        {
+          "activityId": "08c185d0-df82-4d2f-8a02-00ff66367d08"
+        }, 
+        {
+          "activityId": "7d89083d-1f87-4620-8184-7ace13ce7065"
+        }, 
+        {
+          "activityId": "2c3d0211-ccc6-4a45-b398-380dfd51d03b"
+        }, 
+        {
+          "activityId": "e2b732bb-761f-4c02-97f1-90ac46a70738"
+        }, 
+        {
+          "activityId": "6d0cb981-7497-4b4d-b56e-7ada8535092a"
+        }, 
+        {
+          "activityId": "654ba2a4-b985-49e5-9d09-277ca2e17f41"
+        }, 
+        {
+          "activityId": "93b7d255-33f4-4404-9c05-57841b72f9fc"
+        }, 
+        {
+          "activityId": "59a8e230-9254-47d5-baf9-b5f3910b6145"
+        }, 
+        {
+          "activityId": "a740d91c-8cd5-4a1f-ace1-497dfccb654a"
+        }, 
+        {
+          "activityId": "5a958012-9fe5-4ee7-9cb6-0c4db6bd072d"
+        }, 
+        {
+          "activityId": "85b3af8a-1d58-4c4c-b145-a457851bac6e"
+        }, 
+        {
+          "activityId": "056023c9-17d7-4e6f-ac0b-c91e75ee180a"
+        }, 
+        {
+          "activityId": "1f1dfec4-dc1f-4a44-ad0c-6c8b03937a7a"
+        }, 
+        {
+          "activityId": "acdd816c-abfe-40e4-8f77-e447a5af25c3"
+        }, 
+        {
+          "activityId": "faa3384a-6f93-4a6c-a9b3-03083488cc06"
+        }, 
+        {
+          "activityId": "2e3aa34b-98a5-480b-861a-19d7d7ae4cb2"
+        }, 
+        {
+          "activityId": "25e035d3-170c-410f-a6b8-a5bd7f2c9d89"
+        }, 
+        {
+          "activityId": "6ea371d8-5464-45b2-91b9-10cb45471d82"
+        }, 
+        {
+          "activityId": "17920677-288a-46a7-a9df-9786bc262e5b"
+        }, 
+        {
+          "activityId": "26b1b7f2-5881-43cd-9fac-15354b0615b2"
+        }, 
+        {
+          "activityId": "26cfff43-e1b8-4837-a9a3-d09c3d0726b0"
+        }, 
+        {
+          "activityId": "6f1a5af4-18e9-4303-b3a6-003b9f975a68"
+        }, 
+        {
+          "activityId": "4f3c3faa-d281-40d0-94cd-1ddb00ee3bbb"
+        }, 
+        {
+          "activityId": "5f235ce8-51fe-494d-996b-d44412be47a3"
+        }, 
+        {
+          "activityId": "30a105d7-56b2-4155-bd5f-6af7108a202e"
+        }, 
+        {
+          "activityId": "7d560ebf-15a4-4245-872b-f2f095b9f306"
+        }, 
+        {
+          "activityId": "cf2a7abf-caad-4acb-ab9b-101116ea7fa7"
+        }, 
+        {
+          "activityId": "f7993a42-85d8-48ac-8c08-fa0eeb99cca9"
+        }, 
+        {
+          "activityId": "82154f03-78a9-4422-9344-f43137ab62ab"
+        }, 
+        {
+          "activityId": "5b0ebd37-4451-4f57-b351-72e2ba099dba"
+        }, 
+        {
+          "activityId": "c6479d33-4f3c-4ce5-86c0-ec72e3d02c10"
+        }, 
+        {
+          "activityId": "d2b8b1d6-995c-451a-a59f-a8c4e94a49b6"
+        }, 
+        {
+          "activityId": "5bc69523-ced6-4118-8c51-af3dcfe1373f"
+        }, 
+        {
+          "activityId": "38b1f0ba-cd41-4f44-a0b3-4ce9c6379342"
+        }, 
+        {
+          "activityId": "553b1121-ebba-4f61-a464-de4fd867c67d"
+        }, 
+        {
+          "activityId": "7140ce4e-1256-405c-beb4-396fbee7e30b"
+        }, 
+        {
+          "activityId": "f07365ad-0169-4099-98c7-ad69afb847c1"
+        }, 
+        {
+          "activityId": "9a056dc9-3d16-439b-b9f2-39b8e6f5f468"
+        }, 
+        {
+          "activityId": "121aab22-6e26-41f6-b3e7-9c3d3e1db0e4"
+        }, 
+        {
+          "activityId": "013149e6-f856-4e4f-991d-05d9d8bff840"
+        }, 
+        {
+          "activityId": "2d8d1451-b091-4c8e-8eeb-c5285c4a884a"
+        }, 
+        {
+          "activityId": "770e7394-6b18-4f20-b32f-1ee2f0c8ca4b"
+        }, 
+        {
+          "activityId": "8ffaf011-ae50-4d58-ba6b-d15fe04c6f74"
+        }, 
+        {
+          "activityId": "4619a510-1d32-40b4-9d18-a80420b96737"
+        }, 
+        {
+          "activityId": "70156659-a0be-46df-bf63-02201984ee59"
+        }, 
+        {
+          "activityId": "929e968e-19ce-4aa0-8a99-33caeebc9c3e"
+        }, 
+        {
+          "activityId": "8e73e0f3-88ff-4884-bccb-26ae47a84e1e"
+        }, 
+        {
+          "activityId": "774dd734-1238-45c9-a3ba-d104928792c2"
+        }, 
+        {
+          "activityId": "cdc41c7b-ca22-40f6-87ed-7fc70b3fb35b"
+        }, 
+        {
+          "activityId": "b14afa10-bc6f-47a4-a5aa-e28b7ca5361e"
+        }, 
+        {
+          "activityId": "9ae0f323-0f47-4df9-a48c-a97585c701e7"
+        }, 
+        {
+          "activityId": "7710f3a8-0f4d-46c4-a927-90f7b7062f14"
+        }, 
+        {
+          "activityId": "a0a9f8ab-81ac-4b42-8fe4-945075dfb498"
+        }, 
+        {
+          "activityId": "60d07cde-000f-4a85-951d-5849d9acee54"
+        }, 
+        {
+          "activityId": "aa12c898-a7f6-4fb2-a1ad-2ecc569d16aa"
+        }, 
+        {
+          "activityId": "a72652b8-b17a-4c03-a8b3-e5dfcd89e561"
+        }, 
+        {
+          "activityId": "fe83892d-5cd0-4ffe-bc77-474a7ab6a8d3"
+        }, 
+        {
+          "activityId": "194d5ecf-d500-4437-9835-2faf161eafd1"
+        }, 
+        {
+          "activityId": "3eb812ff-c615-49a3-83e0-aefde19a5f5d"
+        }, 
+        {
+          "activityId": "ae9dfc4f-fcb5-4058-b5bb-1d761acf1b11"
+        }, 
+        {
+          "activityId": "eafec00e-1312-4f58-947a-11b9fd149f55"
+        }, 
+        {
+          "activityId": "bd819b31-0a1c-497f-a63b-9ab1108a543f"
+        }, 
+        {
+          "activityId": "4a34d2ed-3985-43bb-860f-372a5d536887"
+        }, 
+        {
+          "activityId": "b79ea7da-5656-4bd3-accf-98bd6fcb8d54"
+        }, 
+        {
+          "activityId": "8c2b9506-60c5-49af-ae8a-9d6dedacf900"
+        }, 
+        {
+          "activityId": "122c29c6-86d0-4034-a17a-f2244983f884"
+        }, 
+        {
+          "activityId": "27841555-3e50-453d-a7c0-24b3a1d9919b"
+        }, 
+        {
+          "activityId": "78e46d40-ce82-4c43-aa20-3c505c1a9a1b"
+        }, 
+        {
+          "activityId": "285668d4-2b43-46d3-abed-97fa3dc3278e"
+        }, 
+        {
+          "activityId": "6f3e5fb9-1da0-4010-a149-9cf5d4c44fd1"
+        }, 
+        {
+          "activityId": "c53f48d1-e56e-4270-98bd-ca3256002071"
+        }, 
+        {
+          "activityId": "b5fdda22-2011-4811-8388-6af6bec5f779"
+        }, 
+        {
+          "activityId": "6ac70fb4-04e6-4ce3-a800-10e27429242d"
+        }, 
+        {
+          "activityId": "37ff32b1-fba7-4f43-92ea-0bd5ae4a9d8e"
+        }, 
+        {
+          "activityId": "cec5e716-0f60-4b9b-a2a7-0f48b58a3e48"
+        }, 
+        {
+          "activityId": "53b24ffc-7173-40b8-b985-55e1ee40438d"
+        }, 
+        {
+          "activityId": "75efe4f6-db8c-4cbb-9f0a-6043cba51146"
+        }, 
+        {
+          "activityId": "133793b8-dd70-4794-a74e-fe70d324f9ca"
+        }, 
+        {
+          "activityId": "267fbc39-ba49-4968-8684-f07e4cb17bf7"
+        }, 
+        {
+          "activityId": "4edb979d-beb5-4a32-b4b2-28c14f09eb87"
+        }, 
+        {
+          "activityId": "49196e71-e3bc-40c7-8750-d54e580ea3bd"
+        }, 
+        {
+          "activityId": "4214d461-9292-41bc-8b17-be3572beb8eb"
+        }, 
+        {
+          "activityId": "b7f25010-6087-4356-9f9d-0c1d8867137e"
+        }, 
+        {
+          "activityId": "73621a37-9617-4402-b313-c0ef9f43c0b2"
+        }, 
+        {
+          "activityId": "7762c9c6-6819-4491-bd80-94574ab66ad0"
+        }, 
+        {
+          "activityId": "dc91825a-a57b-4594-90ec-8ffa2fbbf378"
+        }, 
+        {
+          "activityId": "58826641-a40a-49db-aa52-24037d598c11"
+        }, 
+        {
+          "activityId": "d72df106-dd9a-4ae9-b7b3-dafb2b70e792"
+        }, 
+        {
+          "activityId": "1e1d78fe-81f9-441a-9203-6bdf41ae119b"
+        }, 
+        {
+          "activityId": "5f7d5a49-a451-44b6-ac81-ce721c59efcc"
+        }, 
+        {
+          "activityId": "408bbfe0-9829-4600-a750-a44f24090bbb"
+        }
+      ], 
+      "history": [
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 8495, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 9, 
+            "dailyGoalsTotal": 16
+          }, 
+          "distance": 72.6431618, 
+          "frequency": "MONTH", 
+          "fuel": 31830, 
+          "stars": 58, 
+          "startDate": 1451606400000, 
+          "steps": 92257
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 16711, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 19, 
+            "dailyGoalsTotal": 29
+          }, 
+          "distance": 139.95956260000003, 
+          "frequency": "MONTH", 
+          "fuel": 62583, 
+          "stars": 121, 
+          "startDate": 1454284800000, 
+          "steps": 177749
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 22141, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 27, 
+            "dailyGoalsTotal": 31
+          }, 
+          "distance": 181.4862512, 
+          "frequency": "MONTH", 
+          "fuel": 82034, 
+          "stars": 150, 
+          "startDate": 1456790400000, 
+          "steps": 230488
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 19811, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 20, 
+            "dailyGoalsTotal": 30
+          }, 
+          "distance": 165.8240778, 
+          "frequency": "MONTH", 
+          "fuel": 74569, 
+          "stars": 123, 
+          "startDate": 1459468800000, 
+          "steps": 210597
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 1
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1462060800000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1464739200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1467331200000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1470009600000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1472688000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1475280000000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1477958400000, 
+          "steps": 0
+        }, 
+        {
+          "activityType": "ALL_DAY", 
+          "calories": 0, 
+          "dailyGoal": {
+            "dailyGoalsSuccessful": 0, 
+            "dailyGoalsTotal": 0
+          }, 
+          "distance": 0.0, 
+          "frequency": "MONTH", 
+          "fuel": 0, 
+          "stars": 0, 
+          "startDate": 1480550400000, 
+          "steps": 0
+        }
+      ], 
+      "summary": {
+        "activeTime": 51515, 
+        "activeTimePeriods": [
+          {
+            "00am-02am": 6744, 
+            "02am-04am": 1921, 
+            "02pm-04pm": 37854, 
+            "04am-06am": 258, 
+            "04pm-06pm": 35074, 
+            "06am-08am": 1272, 
+            "06pm-08pm": 31206, 
+            "08am-10am": 19642, 
+            "08pm-10pm": 26161, 
+            "10am-12pm": 39193, 
+            "10pm-00am": 13566, 
+            "12pm-02pm": 40489
+          }
+        ], 
+        "activityType": "ALL_DAY", 
+        "avgFuelPerDay": 2345, 
+        "avgStarsPerDay": 4, 
+        "calories": 67158, 
+        "dailyGoal": {
+          "dailyGoalsSuccessful": 75, 
+          "dailyGoalsTotal": 107
+        }, 
+        "distance": 559.91305, 
+        "frequency": "ANNUAL", 
+        "lastKnownDailyGoal": 0.0, 
+        "leastActiveTimePeriod": "04am-08am", 
+        "mostActiveTimePeriod": "12pm-04pm", 
+        "stars": 452, 
+        "startDate": 1451606400000, 
+        "steps": 711091, 
+        "totalFuel": 251016
+      }
+    }
+  ]
+}

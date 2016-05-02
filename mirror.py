@@ -32,8 +32,8 @@ def fuel():
 	}
 
 	params = {
-		'access_token': '', #replace with yours
-		'deviceId': '', #replace with yours
+		'access_token': 'replace-with-yours',
+		'deviceId': 'replace-with-yours',
 		'endDate': endDate,
 		'fidelity': fidelity
 	}
@@ -51,7 +51,7 @@ def fuel():
 	response = requests.get(url, params=params, headers=headers)
 	responseText = response.text
 
-	f = open('static/js/fuelBandData.json', 'w')
+	f = open('static/js/data/fuelBandData.json', 'w')
 	json.dump(json.loads(responseText), f, indent=2)
 	f.close()
 	return responseText
@@ -89,7 +89,7 @@ def news():
 
 	response = requests.get(url, params=params, headers=headers)
 	responseText = response.text
-	f = open('static/js/newsData.json', 'w')
+	f = open('static/js/data/newsData.json', 'w')
 	json.dump(json.loads(responseText), f, indent=2)
 	f.close()
 	return responseText
